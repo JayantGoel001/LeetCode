@@ -23,11 +23,10 @@ public:
         return null;
     }
     int i = 0;
-    // Decodes your encoded data to tree.
-    TreeNode* deserialize(string data) {
-        if(i < data.size()){
+    TreeNode *createTree(string &data,int size){
+        if(i < size){
             string str = "";
-            while(i < data.size() && data[i] != ' '){
+            while(i < size && data[i] != ' '){
                 str += data[i++];
             }
             i++;
@@ -36,12 +35,16 @@ public:
             }
             TreeNode *head = new TreeNode(stoi(str));
             
-            head->left = deserialize(data);
-            head->right = deserialize(data);
+            head->left = createTree(data,size);
+            head->right = createTree(data,size);
             
             return head;
         }
         return nullptr;
+    }
+    // Decodes your encoded data to tree.
+    TreeNode* deserialize(string data) {
+        return createTree(data,data.size());
     }
 };
 
