@@ -10,7 +10,7 @@ public:
         
         priority_queue<pii,vector<pii>,greater<pii>> pq;
         
-        unordered_map<int,int> mp;
+        map<int,int> mp;
         for(auto it : nums){
             mp[it]++;
         }
