@@ -1,6 +1,6 @@
 class Solution {
 public:
     bool isPowerOfThree(int n) {
-        return n>0 && 1162261467 % n ==0;
+        return n && pow(3,round(log(n)/log(3))) == n;
     }
 };
