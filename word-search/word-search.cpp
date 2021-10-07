@@ -27,7 +27,6 @@ public:
                 return true;
             }
             dp[x][y] = false;
-            return false;
         }
         return false;
     }
