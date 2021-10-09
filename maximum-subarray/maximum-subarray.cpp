@@ -6,12 +6,13 @@ public:
         
         for(auto it : nums){
             sum += it;
+            
             maxi = max(maxi,sum);
             
             if(sum < 0){
                 sum = 0;
             }
         }
-        return maxi;
+        return maxi; 
     }
 };
