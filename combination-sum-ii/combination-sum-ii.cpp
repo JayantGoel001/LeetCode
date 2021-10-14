@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> v;
     
-    void generateSum(map<int,int> mp,int target,vector<int> &_v) {
+    void generateSum(unordered_map<int,int> mp,int target,vector<int> &_v) {
         if(target == 0){
             v.push_back(_v);
         }else if(target > 0){
@@ -19,7 +19,7 @@ public:
     }
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         vector<int> _v;
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(auto it : candidates){
             mp[it]++;
         }
