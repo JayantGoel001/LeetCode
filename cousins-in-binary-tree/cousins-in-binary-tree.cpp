@@ -15,8 +15,12 @@ public:
                 ptt temp = q.front();
                 q.pop();
                 
-                flagX = flagX ? flagX : ((temp.first->val == x && temp.second != flagY)? temp.second: nullptr);
-                flagY = flagY ? flagY : ((temp.first->val == y && temp.second != flagX)? temp.second: nullptr);
+                if(temp.first->val == x){
+                    flagX = temp.second;
+                }
+                if(temp.first->val == y){
+                    flagY = temp.second;    
+                }
                 
                 if(temp.first->left){
                     q.push({temp.first->left,temp.first});
@@ -25,7 +29,7 @@ public:
                     q.push({temp.first->right,temp.first});
                 }
             }
-            if(flagX && flagY){
+            if(flagX && flagY && flagX!=flagY){
                 return true;
             }
             flagX = nullptr;
