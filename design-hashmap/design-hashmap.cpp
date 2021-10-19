@@ -1,33 +1,43 @@
+#define pii pair<int,int>
 class MyHashMap {
 public:
-    vector<list<int>::iterator> v;
-    list<int> ll;
-    MyHashMap() : v(1000001,ll.end()){}
+    const static int size = 1000;
+    // const static int multi = 12582917;
+    list<pii> ll[size];
+    
+    int hash(int key){
+        return (key%size);// * (multi%size))%size;
+    }
+    
+    MyHashMap() {}
     
     void put(int key, int value) {
-        ll.push_front(value);
-        v[key] = ll.begin();
+        remove(key);
+        int h = hash(key);
+        ll[h].push_back({key,value});
     }
     
     int get(int key) {
-        if(v[key] != ll.end()){
-            return *v[key];
+        int h = hash(key);
+        list<pii> l = ll[h];
+        
+        for(auto it : l){
+            if(it.first == key){
+                return it.second;
+            }
         }
         return -1;
     }
     
     void remove(int key) {
-        if(v[key] != ll.end()){
-            ll.erase(v[key]);
-            v[key] = ll.end();
+        int h = hash(key);
+        list<pii> l = ll[h];
+        
+        for(auto it : l){
+            if(it.first == key){
+                ll[h].remove(it);
+                break;
+            }
         }
     }
 };
-
-/**
- * Your MyHashMap object will be instantiated and called as such:
- * MyHashMap* obj = new MyHashMap();
- * obj->put(key,value);
- * int param_2 = obj->get(key);
- * obj->remove(key);
- */
