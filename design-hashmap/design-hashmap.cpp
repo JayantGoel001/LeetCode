@@ -2,11 +2,10 @@
 class MyHashMap {
 public:
     const static int size = 1000;
-    // const static int multi = 12582917;
     list<pii> ll[size];
     
     int hash(int key){
-        return (key%size);// * (multi%size))%size;
+        return key%size;
     }
     
     MyHashMap() {}
