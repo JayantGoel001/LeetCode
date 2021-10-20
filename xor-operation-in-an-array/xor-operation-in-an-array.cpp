@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int xorOpB(int n,int start){
-        if(n%2==0){
-            return (n/2) & 1;
-        }else{
-            return ((n/2) & 1) ^ (start + n - 1);
-        }
-    }
     int xorOp(int n,int start){
         if(start&1){
-            return (start - 1) ^ xorOpB(n+1,start-1);
+            return (start - 1) ^ xorOp(n+1,start-1);
         }else{
-            return xorOpB(n,start);
+            if(n%2==0){
+                return (n/2) & 1;
+            }else{
+                return ((n/2) & 1) ^ (start + n - 1);
+            }
         }
     }
     int xorOperation(int n, int start) {
