@@ -4,34 +4,34 @@ public:
         if(!root){
             return root;
         }
-        queue<Node*> q;
-        q.push(root);
-        
-        while(!q.empty()){
-            int size = q.size();
-            Node *temp = nullptr;
-            for(int i=0;i<size;i++){
-                Node *top = q.front();
-                q.pop();
-                
-                if(i == 0){
-                    temp = top;
-                }else{
-                    temp->next = top;
-                    temp = temp->next;
+        Node *head = nullptr;
+        Node *temp = root;
+        Node *prev = nullptr;
+        while(temp){
+            while(temp){
+                if(temp->left){
+                    if(prev){
+                        prev->next = temp->left;
+                    }else{
+                        head = temp->left;
+                    }
+                    prev = temp->left;
                 }
-                
-                if(top->left){
-                    q.push(top->left);
+                if(temp->right){
+                    if(prev){
+                        prev->next = temp->right;
+                    }else{
+                        head = temp->right;
+                    }
+                    prev = temp->right;
                 }
-                if(top->right){
-                    q.push(top->right);
-                }
+                temp = temp->next;
             }
-            if(temp){
-                temp->next = nullptr;
-            }
+            temp = head;
+            head = nullptr;
+            prev = nullptr;
         }
+        
         return root;
     }
 };
