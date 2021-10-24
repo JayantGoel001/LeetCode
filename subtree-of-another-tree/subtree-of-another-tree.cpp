@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    
-    bool checkSubTree(TreeNode* root, TreeNode* subRoot){
-        if(root && subRoot){
-            if(root->val != subRoot->val){
+    bool checkSubTree(TreeNode *root,TreeNode *sub){
+        if(root && sub){
+            if(root->val != sub->val){
                 return false;
             }
-            return checkSubTree(root->left,subRoot->left) && checkSubTree(root->right,subRoot->right);
-        }else if(!root && !subRoot){
+            return checkSubTree(root->left,sub->left) && checkSubTree(root->right,sub->right);
+        }else if(root == nullptr && sub == nullptr){
             return true;
         }else{
             return false;
         }
     }
-    
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root){
+        if(root && subRoot){
             if(root->val == subRoot->val && checkSubTree(root,subRoot)){
-                return true;
+                return root;
             }
             return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
         }
