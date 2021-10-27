@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> v;
     
-    void generateSum(unordered_map<int,int> mp,int target,vector<int> &_v) {
+    void generateComb(unordered_map<int,int> mp, int target,vector<int> &_v){
         if(target == 0){
             v.push_back(_v);
         }else if(target > 0){
@@ -10,21 +10,23 @@ public:
                 if(it.second > 0){
                     mp[it.first]--;
                     _v.push_back(it.first);
-                    generateSum(mp,target - it.first,_v);
+                    
+                    generateComb(mp,target - it.first,_v);
+                    
                     _v.pop_back();
                 }
                 mp[it.first]=0;
             }
         }
     }
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        vector<int> _v;
+    
+    vector<vector<int>> combinationSum2(vector<int>& cand, int target) {
         unordered_map<int,int> mp;
-        for(auto it : candidates){
+        for(auto it : cand){
             mp[it]++;
         }
-        
-        generateSum(mp,target,_v);
+        vector<int> _v;
+        generateComb(mp,target,_v);
         return v;
     }
 };
