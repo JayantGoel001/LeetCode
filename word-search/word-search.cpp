@@ -1,43 +1,32 @@
 class Solution {
 public:
-    bool isSafe(int x,int y,int n,int m){
-        return x>=0 && y>=0 && x<n && y<m;
-    }
-    bool check(vector<vector<char>>& board,string &word,int x,int y,int it,int n,int m,vector<vector<bool>> &dp){
-        if(it == word.size()){
+    bool checkString(vector<vector<char>>& board,int x,int y,int n,int m, string &word,vector<vector<bool>> &dp,int a){
+        if(a == word.size()){
             return true;
-        }
-        if(isSafe(x,y,n,m) && !dp[x][y]){
-            if(board[x][y] != word[it]){
+        }else{
+            if(x>=0 && y>=0 && x < n && y < m && word[a] == board[x][y] && !dp[x][y]){
+                dp[x][y] = true;
+                bool r1 = checkString(board,x+1,y,n,m,word,dp,a+1);
+                bool r2 = checkString(board,x-1,y,n,m,word,dp,a+1);
+                bool r3 = checkString(board,x,y-1,n,m,word,dp,a+1);
+                bool r4 = checkString(board,x,y+1,n,m,word,dp,a+1);
+                dp[x][y] = false;
+                
+                return r1 || r2 || r3 || r4;
+            }else{
                 return false;
             }
-            
-            dp[x][y] = true;
-            
-            if(check(board,word,x-1,y,it + 1,n,m,dp)){
-                return true;
-            }
-            if(check(board,word,x+1,y,it + 1,n,m,dp)){
-                return true;
-            }
-            if(check(board,word,x,y-1,it + 1,n,m,dp)){
-                return true;
-            }
-            if(check(board,word,x,y+1,it + 1,n,m,dp)){
-                return true;
-            }
-            dp[x][y] = false;
         }
-        return false;
     }
     bool exist(vector<vector<char>>& board, string word) {
         int n = board.size();
         int m = board[0].size();
         
         vector<vector<bool>> dp(n+1,vector<bool>(m+1,false));
+        
         for(int i=0;i<n;i++){
-            for(int j = 0;j<m;j++){
-                if(board[i][j] == word[0] && check(board,word,i,j,0,n,m,dp)){
+            for(int j=0;j<m;j++){
+                if(board[i][j] == word[0] && checkString(board,i,j,n,m,word,dp,0)){
                     return true;
                 }
             }
