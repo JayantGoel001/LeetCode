@@ -4,26 +4,21 @@ public:
         int inc = nums[0];
         int exc = 0;
         
-        int size = nums.size();
-        for(int i = 1;i<size-1;i++){
+        int n = nums.size();
+        for(int i=1;i<n-1;i++){
             int temp = inc;
             inc = exc + nums[i];
             
             exc = max(exc,temp);
         }
-        
-        int output = max(inc,exc);
-        
+        int max1 = max(inc,exc);
         inc = 0;
         exc = 0;
-        
-        for(int i=1;i<size;i++){
+        for(int i=1;i<n;i++){
             int temp = inc;
             inc = exc + nums[i];
-            
-            exc = max(exc,temp);
+            exc = max(temp,exc);
         }
-        
-        return max(output,max(inc,exc));
+        return max({max1,inc,exc});
     }
 };
