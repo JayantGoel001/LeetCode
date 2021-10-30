@@ -3,10 +3,10 @@
 <pre>+-------------+---------+
 | Column Name | Type    |
 +-------------+---------+
-| Id          | int     |
-| Email       | varchar |
+| id          | int     |
+| email       | varchar |
 +-------------+---------+
-Id is the primary key column for this table.
+id is the primary key column for this table.
 Each row of this table contains an email. The emails will not contain uppercase letters.
 </pre>
 
@@ -24,7 +24,7 @@ Each row of this table contains an email. The emails will not contain uppercase 
 <pre><strong>Input:</strong> 
 Person table:
 +----+---------+
-| Id | Email   |
+| id | email   |
 +----+---------+
 | 1  | a@b.com |
 | 2  | c@d.com |
