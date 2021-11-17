@@ -8,7 +8,7 @@ public:
             _v.push_back(1);
             
             for(int j=1;j<i;j++){
-                _v.push_back(v[i-1][j-1] + v[i-1][j]);
+                _v.push_back(v.back()[j] + v.back()[j-1]);
             }
             
             _v.push_back(1);
