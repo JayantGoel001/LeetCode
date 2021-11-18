@@ -8,7 +8,7 @@ public:
             if(count == 0){
                 can = it;
             }
-            count += (it == can)? 1 : -1;
+            count += (can == it)? 1 : -1;
         }
         return can;
     }
