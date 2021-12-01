@@ -4,12 +4,10 @@ public:
         int inc = 0;
         int exc = 0;
         
-        int size = nums.size();
-        for(int i=0;i<size;i++){
+        for(auto it : nums){
             int temp = inc;
-            
-            inc = exc + nums[i];
-            exc = max(temp,exc);
+            inc = exc + it;
+            exc = max(exc,temp);
         }
         return max(inc,exc);
     }
