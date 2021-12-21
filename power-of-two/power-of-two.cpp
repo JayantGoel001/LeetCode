@@ -15,7 +15,7 @@ public:
         if(n <= 0){
             return false;
         }
-        int x = log(n)/log(2);
+        int x = log2(n);
         
         return power(2,x) == n;
     }
