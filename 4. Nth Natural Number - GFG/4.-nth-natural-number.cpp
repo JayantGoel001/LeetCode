@@ -10,24 +10,14 @@ using namespace std;
 
 class Solution{
 	public:
-	long long int power(int x,int n){
-	    if(n == 0){
-	        return 1;
-	    }else {
-	        if(n%2==0){
-	            return power(x*x,n/2);
-	        }else{
-	            return x * power(x*x,(n-1)/2);
-	        }
-	    }
-	}
     long long findNth(long long N)
     {
         long long int res = 0;
-        int i = 0;
+        long long int pos = 1;
         while(N!=0){
-            res += (long long int)N%9 * power(10,i++);
+            res += (long long int)N%9 * pos;
             N /= 9;
+            pos *= 10;
         }
         return res;
     }
