@@ -4,9 +4,9 @@ public:
         int maxi = 0;
         int mini = INT_MAX;
         
-        for(auto it : prices){
-            mini = min(mini,it);
-            maxi = max(maxi,it - mini);
+        for(auto price : prices){
+            maxi = max(maxi,price - mini);
+            mini = min(mini,price);
         }
         return maxi;
     }
