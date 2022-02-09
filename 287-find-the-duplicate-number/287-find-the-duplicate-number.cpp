@@ -1,14 +1,19 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        int n = nums.size();
-        for(int i=0;i<n;i++){
-            int cur = abs(nums[i]) - 1;
-            if(nums[cur] < 0){
-                return cur + 1;
-            }
-            nums[cur] *= -1;
+        int slow = nums[0];
+        int fast = nums[0];
+        
+        do{
+            slow = nums[slow];
+            fast = nums[nums[fast]];
+        }while(slow != fast);
+        
+        slow = nums[0];
+        while(slow != fast){
+            slow = nums[slow];
+            fast = nums[fast];
         }
-        return -1;
+        return slow;
     }
 };
