@@ -12,10 +12,10 @@ class Solution{
         sort(arr,arr + n);
         sort(dep,dep + n);
         
-        int i = 1;
+        int i = 0;
         int j = 0;
         int maxi = 0;
-        int platforms = 1;
+        int platforms = 0;
         while(i < n && j < n){
             if(arr[i] <= dep[j]){
                 platforms++;
