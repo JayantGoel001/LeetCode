@@ -1,36 +1,36 @@
 class Solution {
 public:
-    void dfs(TreeNode *root, map<int, int> &left_m, int &ans,int level, int val)
-    {
-        if (root == NULL) return;
-        if(left_m.find(level)==left_m.end())
-        {
-            left_m[level] = 2*level+1;
-        }
-    }
     int widthOfBinaryTree(TreeNode* root) {
-        queue<pair<unsigned int, TreeNode*>> q;
-        q.push({0, root});
-        unsigned int maxWidth=1;
-        //dfs(root, m, ans,0,0);
-        while(q.empty()!=true)
-        {
+        queue<pair<TreeNode*,unsigned int>> q;
+        q.push({root,0});
+        
+        unsigned int maxi = 0;
+        
+        while(!q.empty()){
             int size = q.size();
-            for(int i = 0;i<size;i++)
-            {
-                auto curr = q.front();
+            unsigned int diffX,diffY;
+            
+            for(int i=0;i<size;i++){
+                pair<TreeNode*,unsigned int> p = q.front();
                 q.pop();
-                if(curr.second->left){
-                    q.push({curr.first*2, curr.second->left});
+                
+                if(i == 0){
+                    diffX = p.second;
                 }
-                if(curr.second->right){
-                    q.push({curr.first*2+1, curr.second->right});
+                if(i == size-1){
+                    diffY = p.second;
+                }
+                
+                if(p.first->left){
+                    q.push({p.first->left,2 * p.second});
+                }
+                
+                if(p.first->right){
+                    q.push({p.first->right,2 * p.second + 1});
                 }
             }
-            if(q.size()>0)
-                maxWidth = max(maxWidth, q.back().first - q.front().first + 1);
+            maxi = max(maxi,diffY - diffX + 1);
         }
-        
-        return maxWidth;
+        return maxi;
     }
 };
