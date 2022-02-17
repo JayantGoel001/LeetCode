@@ -10,12 +10,10 @@ public:
             v.push_back(temp);
         }else{
             for(int i=x;i<can.size();i++){
-                target -= can[i];
                 temp.push_back(can[i]);
                 
-                generateComb(can,target,temp,i);
+                generateComb(can,target - can[i],temp,i);
                 
-                target += can[i];
                 temp.pop_back();
             }
         }
