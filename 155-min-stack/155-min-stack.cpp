@@ -15,7 +15,7 @@ public:
     }
     
     int top() {
-        return max(st.top() + mini,mini);
+        return max(st.top(),0l) + mini;
     }
     
     int getMin() {
