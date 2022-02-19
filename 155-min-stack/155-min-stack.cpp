@@ -10,7 +10,7 @@ public:
     }
     
     void pop() {
-        mini = max(mini,mini - st.top());
+        mini = mini - min(st.top(),0L);
         st.pop();
     }
     
