@@ -1,13 +1,13 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        int can = 0;
         int count = 0;
-        for(int i=0;i<nums.size();i++){
+        int can = 0;
+        for(auto it : nums){
             if(count == 0){
-                can = nums[i];
+                can = it;
             }
-            count += can == nums[i] ? 1 : -1;
+            count += can == it ? 1 : -1;
         }
         return can;
     }
