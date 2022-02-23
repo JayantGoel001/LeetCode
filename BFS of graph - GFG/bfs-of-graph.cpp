@@ -22,9 +22,7 @@ class Solution {
                     
                     v.push_back(top);
                     for(auto it : adj[top]){
-                        if(!vis[it]){
-                            q.push(it);
-                        }
+                        q.push(it);
                     }
                 }
             } 
