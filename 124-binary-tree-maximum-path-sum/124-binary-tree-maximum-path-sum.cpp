@@ -1,21 +1,19 @@
 class Solution {
 public:
-    int maxi = INT_MIN;
-    
-    int calculateMPS(TreeNode *root){
+    int ans = INT_MIN;
+    int getSum(TreeNode *root){
         if(root){
-            int left = calculateMPS(root->left);
-            int right = calculateMPS(root->right);
+            int left = getSum(root->left);
+            int right = getSum(root->right);
             
-            maxi = max(maxi,max({left,right,left + right,0}) + root->val);
-            
-            return max({left,right,0}) + root->val;
+            ans =  max(ans,max({left, right, left + right, 0}) + root->val);
+                
+            return max({left, right, 0}) + root->val;
         }
         return 0;
     }
-    
     int maxPathSum(TreeNode* root) {
-        calculateMPS(root);
-        return maxi;
+        getSum(root);
+        return ans;
     }
 };
