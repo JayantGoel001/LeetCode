@@ -26,7 +26,7 @@ class Solution
             for(auto it : adj[top.second]){
                 if(!vis[it[0]] && dis[it[0]] > it[1]){
                     dis[it[0]] = it[1];
-                    pq.push({dis[it[0]],it[0]});
+                    pq.push({it[1],it[0]});
                 }
             }
         }
