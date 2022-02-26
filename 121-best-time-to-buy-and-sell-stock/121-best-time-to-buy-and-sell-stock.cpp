@@ -3,10 +3,9 @@ public:
     int maxProfit(vector<int>& prices) {
         int maxi = 0;
         int mini = INT_MAX;
-        
-        for(auto price : prices){
-            maxi = max(maxi,price - mini);
-            mini = min(mini,price);
+        for(auto it : prices){
+            mini = min(mini,it);
+            maxi = max(maxi,it - mini);
         }
         return maxi;
     }
