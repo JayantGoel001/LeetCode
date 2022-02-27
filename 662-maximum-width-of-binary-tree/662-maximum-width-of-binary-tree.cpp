@@ -1,32 +1,30 @@
+#define pti pair<TreeNode *,unsigned int>
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        queue<pair<TreeNode*,unsigned int>> q;
+        queue<pti> q;
         q.push({root,0});
-        
         unsigned int maxi = 0;
-        
         while(!q.empty()){
             int size = q.size();
-            unsigned int diffX,diffY;
-            
+            unsigned int diffY = 0;
+            unsigned int diffX = 0;
             for(int i=0;i<size;i++){
-                pair<TreeNode*,unsigned int> p = q.front();
+                pti top = q.front();
                 q.pop();
                 
                 if(i == 0){
-                    diffX = p.second;
+                    diffX = top.second;
                 }
                 if(i == size-1){
-                    diffY = p.second;
+                    diffY = top.second;
                 }
                 
-                if(p.first->left){
-                    q.push({p.first->left,2 * p.second});
+                if(top.first->left){
+                    q.push({top.first->left,2 * top.second});
                 }
-                
-                if(p.first->right){
-                    q.push({p.first->right,2 * p.second + 1});
+                if(top.first->right){
+                    q.push({top.first->right,2 * top.second + 1});
                 }
             }
             maxi = max(maxi,diffY - diffX + 1);
