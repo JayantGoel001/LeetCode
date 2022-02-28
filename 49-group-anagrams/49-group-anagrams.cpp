@@ -5,8 +5,18 @@ public:
         
         unordered_map<string,vector<string>> mp;
         for(auto it : strs){
-            string s = it;
-            sort(s.begin(),s.end());
+            int ar[26] ={0};
+            for(auto it2 : it){
+                ar[it2 - 'a']++;
+            }
+            
+            string s = "";
+            
+            for(int i=0;i<26;i++){
+                s += (i + 'a');
+                s += (ar[i] + '0');
+            }
+            
             mp[s].push_back(it);
         }
         for(auto it : mp){
