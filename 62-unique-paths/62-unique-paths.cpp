@@ -1,9 +1,7 @@
 class Solution {
 public:
     int up(int m,int n,int **dp){
-        if(m == 1){
-            return 1;
-        }else if(n == 1){
+        if(m == 1 || n == 1){
             return 1;
         }else{
             if(dp[m][n]==-1){
