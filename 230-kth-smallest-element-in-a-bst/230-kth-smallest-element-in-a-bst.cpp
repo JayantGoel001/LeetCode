@@ -1,8 +1,7 @@
 class Solution {
 public:
+    stack<TreeNode *> st;
     int kthSmallest(TreeNode* root, int k) {
-        stack<TreeNode*> st;
-        
         while(true){
             while(root){
                 st.push(root);
