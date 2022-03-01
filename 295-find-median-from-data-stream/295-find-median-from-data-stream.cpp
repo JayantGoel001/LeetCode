@@ -1,21 +1,20 @@
 class MedianFinder {
 public:
-    priority_queue<int> mx;
-    priority_queue<int,vector<int>,greater<int>> mn;
-    
     int i = 0;
+    priority_queue<double> mx;
+    priority_queue<double,vector<double>,greater<double>> mn;
     
     MedianFinder() {}
     
     void addNum(int num) {
-        if(i%2 == 0){
-            mn.push(num);
-            mx.push(mn.top());
-            mn.pop();
-        }else{
+        if(i%2 != 0){
             mx.push(num);
             mn.push(mx.top());
             mx.pop();
+        }else{
+            mn.push(num);
+            mx.push(mn.top());
+            mn.pop();
         }
         i++;
     }
