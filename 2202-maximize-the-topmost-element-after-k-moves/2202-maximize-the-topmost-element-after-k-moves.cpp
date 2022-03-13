@@ -4,30 +4,19 @@ public:
         if(k == 0){
             return nums[0];
         }
-        if(k > nums.size()){
-            int maxi = 0;
-            for(auto it : nums){
-                maxi = max(maxi,it);
-            }
-            if(k%2 && nums.size() == 1){
-                return -1;
-            }
-            return maxi;
-        }
-        priority_queue<int> pq;
-        int i = 0;
-        while(k > 1){
-            pq.push(nums[i++]);
-            k--;
-        }
-        if(i + 1 >= nums.size() && pq.empty()){
+        if(k == 1 && nums.size() == 1){
             return -1;
-        }else if(i + 1 < nums.size() && !pq.empty()){
-            return max(nums[i + 1],pq.top());
-        }else if(i + 1< nums.size()){
-            return nums[i + 1];
-        }else{
-            return pq.top();
         }
+        if(k%2 && nums.size() == 1){
+            return -1;
+        }
+        int maxi = 0;
+        for(int i=0;i<min((int)nums.size(),k-1);i++){
+            maxi = max(maxi,nums[i]);
+        }
+        if(k < nums.size()){
+            maxi = max(maxi,nums[k]);
+        }
+        return maxi;
     }
 };
