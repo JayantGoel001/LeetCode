@@ -7,6 +7,6 @@ public:
                 count++;
             }
         }
-        return (nums.size() - count)%2 == 0 ? count : count + 1;
+        return count + (nums.size() - count)%2;
     }
 };
