@@ -10,27 +10,27 @@ public:
         }
     }
 
-int next() {
-    int result = nodes.top().getInteger();
-    nodes.pop();
-    return result;
-}
-
-bool hasNext() {
-    while(!nodes.empty()) {
-        NestedInteger curr = nodes.top();
-        if(curr.isInteger()) {
-            return true;
-        }
-        
+    int next() {
+        int result = nodes.top().getInteger();
         nodes.pop();
-        vector<NestedInteger>& adjs = curr.getList();
-        int size = adjs.size();
-        for(int i = size - 1; i >= 0; --i) {
-            nodes.push(adjs[i]);
-        }
+        return result;
     }
-    
-    return false;
+
+    bool hasNext() {
+        while(!nodes.empty()) {
+            NestedInteger curr = nodes.top();
+            if(curr.isInteger()) {
+                return true;
+            }
+
+            nodes.pop();
+            vector<NestedInteger>& adjs = curr.getList();
+            int size = adjs.size();
+            for(int i = size - 1; i >= 0; --i) {
+                nodes.push(adjs[i]);
+            }
+        }
+
+        return false;
     }
 };
