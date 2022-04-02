@@ -1,26 +1,30 @@
-#define ll long long
+#define ll long long int
 class Solution {
 public:
     long long numberOfWays(string s) {
-        int n = s.size();
-        vector<int> front(n,0),back(n,0);
-        for (int i = 1; i < n; i++) {
-            front[i] = front[i - 1] + (s[i - 1] == '1');
-        }
-
-        for (int i = n - 2; i >= 0; i--) {
-            back[i] = back[i + 1] + (s[i + 1] == '1');
-        }
-
-        ll ans = 0;
-        for (int i = 1; i < n-1; i++) {
-            if (s[i] == '0') {
-                ans += (ll) front[i] * back[i];
-            }
-            else{
-                ans += (ll) (i - front[i]) * (n - i - back[i] - 1);
+        int one = 0;
+        int zero = 0;
+        for(auto it : s){
+            if(it == '1'){
+                one++;
+            }else{
+                zero++;
             }
         }
-        return ans;
+        int o = 0;
+        int z = 0;
+        ll count = 0;
+        for(auto it : s){
+            if(it == '0'){
+                count += (ll)one * o;
+                z++;
+                zero--;
+            }else{
+                count += (ll)zero * z;
+                o++;
+                one--;
+            }
+        }
+        return count;
     }
 };
