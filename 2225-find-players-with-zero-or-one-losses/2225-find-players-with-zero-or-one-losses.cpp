@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> findWinners(vector<vector<int>>& matches) {
         unordered_map<int,int> loose;
-        unordered_map<int,int> mp;
+        map<int,int> mp;
         for(auto it : matches){
             loose[it[1]]++;
             mp[it[0]]++;
@@ -16,8 +16,6 @@ public:
                 v[1].push_back(it.first);
             }
         }
-        sort(v[0].begin(),v[0].end());
-        sort(v[1].begin(),v[1].end());
         return v;
     }
 };
