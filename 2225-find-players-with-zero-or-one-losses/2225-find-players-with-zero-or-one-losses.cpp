@@ -10,10 +10,8 @@ public:
         }
         vector<vector<int>> v(2);
         for(auto it : s){
-            if(loose[it] == 0){
-                v[0].push_back(it);
-            }else if(loose[it] == 1){
-                v[1].push_back(it);
+            if(loose[it] <= 1){
+                v[loose[it]].push_back(it);
             }
         }
         return v;
