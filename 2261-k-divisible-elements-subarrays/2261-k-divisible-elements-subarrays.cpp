@@ -9,7 +9,7 @@ public:
             string str = "";
             
             for(j=i;j<nums.size();j++){
-                countK += (nums[j]%p == 0 ? 1 : 0);
+                countK += (nums[j]%p == 0);
                 if(countK > k){
                     break;
                 }
