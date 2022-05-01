@@ -1,4 +1,3 @@
-#define pii pair<int,int>
 class Solution {
 public:
     int countDistinct(vector<int>& nums, int k, int p) {
@@ -21,7 +20,7 @@ public:
             count += (j - i);
         }
         for(auto it : mp){
-            count -= (it.second-1);
+            count -= (it.second - 1);
         }
         return count;
     }
