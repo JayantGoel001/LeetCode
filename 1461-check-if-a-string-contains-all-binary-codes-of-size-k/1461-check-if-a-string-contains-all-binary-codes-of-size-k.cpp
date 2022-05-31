@@ -3,7 +3,7 @@ public:
     bool hasAllCodes(string s, int k) {
         unordered_set<string> ust;
         deque<char> dq;
-        
+        string str = "";
         for(int i=0;i<s.size();i++){
             dq.push_back(s[i]);
             if(i >= k - 1){
