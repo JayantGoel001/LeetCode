@@ -34,7 +34,7 @@ public:
             if(check(weights, mid, days)){
                 low = mid + 1;
             }else{
-                ans = min(ans, mid);
+                ans = mid;
                 high = mid - 1;
             }
         }
