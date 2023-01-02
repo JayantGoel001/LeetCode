@@ -6,10 +6,7 @@ public:
         
         for(auto it : nums){
             mp[it] = true;
-        }
-        
-        for(auto it : nums){
-            count += mp[it + diff] && mp[it + 2 * diff];
+            count += mp[it - diff] && mp[it - 2 * diff];
         }
         return count;
     }
