@@ -3,30 +3,21 @@ public:
     int distinctPrimeFactors(vector<int>& nums) {
         unordered_set<int> st;
         
-        vector<bool> v(1001, true);
-        
-        v[1] = false;
-        for(int i=4;i<=1000;i += 2){
-            v[i] = false;
-        }
-        for(int i = 3; i * i <= 1000; i+=2){
-            for(int j = i * i; j <= 1000; j+=i){
-                v[j] = false;
-            }
-        }
+        vector<int> v = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31};
         
         for(auto it : nums){
-            int count = 0;
             
-            for(int i=1;i*i<=it;i++){
+            for(auto i : v){
                 if(it % i == 0){
-                    if(v[i]){
-                        st.insert(i);
-                    }
-                    if(it % (it/i) == 0 && v[it/i]){
-                        st.insert(it/i);
+                    st.insert(i);
+                    
+                    while(it % i == 0){
+                        it = it/i;
                     }
                 }
+            }
+            if(it != 1){
+                st.insert(it);
             }
         }
         return st.size();
