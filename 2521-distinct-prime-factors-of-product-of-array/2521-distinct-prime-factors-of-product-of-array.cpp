@@ -1,7 +1,7 @@
 class Solution {
 public:
     int distinctPrimeFactors(vector<int>& nums) {
-        set<int> st;
+        unordered_set<int> st;
         
         vector<bool> v(1001, true);
         
