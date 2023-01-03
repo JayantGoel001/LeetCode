@@ -3,14 +3,14 @@ public:
     int distinctPrimeFactors(vector<int>& nums) {
         set<int> st;
         
-        vector<bool> v(10001, true);
+        vector<bool> v(1001, true);
         
         v[1] = false;
-        for(int i=4;i<=10000;i += 2){
+        for(int i=4;i<=1000;i += 2){
             v[i] = false;
         }
-        for(int i = 3; i * i <= 10000; i+=2){
-            for(int j = i * i; j <= 10000; j+=i){
+        for(int i = 3; i * i <= 1000; i+=2){
+            for(int j = i * i; j <= 1000; j+=i){
                 v[j] = false;
             }
         }
