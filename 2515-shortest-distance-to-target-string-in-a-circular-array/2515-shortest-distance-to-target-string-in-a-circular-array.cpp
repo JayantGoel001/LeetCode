@@ -4,7 +4,7 @@ public:
         int mini = INT_MAX;
         for(int i=0;i<words.size();i++){
             if(words[i] == target){
-                mini = min({mini, (int)((i - startIndex + words.size())%words.size()), (int)((startIndex - i + words.size())%words.size())});
+                mini = min({mini, (int)abs(i - startIndex), (int)(words.size() - abs(startIndex - i))});
             }
         }
         return mini == INT_MAX ? -1 : mini;
