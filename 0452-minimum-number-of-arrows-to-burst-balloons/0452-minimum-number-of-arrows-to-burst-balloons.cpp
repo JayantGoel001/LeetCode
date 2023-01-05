@@ -3,15 +3,15 @@ public:
     int findMinArrowShots(vector<vector<int>>& points) {
         sort(points.begin(), points.end());
         
-        vector<int> prev = points[0];
+        int prev = points[0][1];
         int count = 0;
         
         for(auto it : points){
-            if(prev[1] >= it[0]){
-                prev = {it[0], min(it[1], prev[1])};
+            if(prev >= it[0]){
+                prev = min(it[1], prev);
             }else{
                 count++;
-                prev = it;
+                prev = it[1];
             }
         }
         return count+1;
