@@ -7,6 +7,8 @@ public:
             if(coins >= it){
                 count++;
                 coins -= it;
+            }else{
+                break;
             }
         }
         return count;
