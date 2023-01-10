@@ -1,12 +1,12 @@
 class Solution {
 public:
     char repeatedCharacter(string s) {
-        unordered_set<char> st;
+        vector<bool> v(26, false);
         for(auto it : s){
-            if(st.find(it) != st.end()){
+            if(v[it - 'a']){
                 return it;
             }
-            st.insert(it);
+            v[it - 'a'] = true;
         }
         return ' ';
     }
