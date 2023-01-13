@@ -11,7 +11,7 @@ public:
                 v.push_back(d--);
             }
         }
-        v.push_back(s[s.size() - 1] == 'I' ? i : d);
+        v.push_back(i);
         return v;
     }
 };
