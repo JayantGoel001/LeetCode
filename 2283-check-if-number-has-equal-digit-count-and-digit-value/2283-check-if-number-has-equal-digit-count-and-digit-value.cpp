@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool digitCount(string num) {
-        unordered_map<char,int> mp;
+        vector<int> mp(10);
         for(auto it : num){
             mp[it - '0']++;
         }
