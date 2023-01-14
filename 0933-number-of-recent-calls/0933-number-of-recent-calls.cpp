@@ -1,15 +1,12 @@
 class RecentCounter {
 public:
-    list<int> ll;
+    vector<int> v;
     RecentCounter() {
         
     }
     
     int ping(int t) {
-        ll.push_back(t);
-        while(!ll.empty() && ll.front() < t - 3000){
-            ll.pop_front();
-        }
-        return ll.size();
+        v.push_back(t);
+        return v.end() - lower_bound(v.begin(), v.end(), t - 3000);
     }
 };
