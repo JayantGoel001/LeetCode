@@ -5,15 +5,10 @@ public:
         for(auto it : arr){
             mp[it]++;
         }
-        unordered_map<int,int> x;
+        unordered_set<int> st;
         for(auto it : mp){
-            x[it.second]++;
+            st.insert(it.second);
         }
-        for(auto it : x){
-            if(it.second > 1){
-                return false;
-            }
-        }
-        return true;
+        return mp.size() == st.size();
     }
 };
