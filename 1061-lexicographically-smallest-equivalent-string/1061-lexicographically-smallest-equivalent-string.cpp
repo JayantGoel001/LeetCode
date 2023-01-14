@@ -22,8 +22,8 @@ public:
         string str = "";
         vector<int> mp(26, -1);
         for(auto it : baseStr){
-            vector<bool> isVisited(26, false);
             if(mp[it - 'a'] == -1){
+                vector<bool> isVisited(26, false);
                 mp[it - 'a'] = (DFS(v, it - 'a', isVisited) + 'a');
             }
             str += mp[it - 'a'];
