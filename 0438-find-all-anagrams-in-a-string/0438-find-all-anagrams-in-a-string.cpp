@@ -20,15 +20,13 @@ public:
         vector<int> v;
         for(int i=0;i<s.size();i++){
             if(i >= p.size()){
-                if(compare(vp, vs)){
-                    v.push_back(i - p.size());
-                }
                 vs[s[i - p.size()] - 'a']--;
             }
             vs[s[i] - 'a']++;
-        }
-        if(compare(vp, vs)){
-            v.push_back(s.size() - p.size());
+            
+            if(compare(vp, vs)){
+                v.push_back(i + 1 - p.size());
+            }
         }
         
         return v;
