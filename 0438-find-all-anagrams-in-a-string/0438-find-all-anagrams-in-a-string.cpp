@@ -24,7 +24,7 @@ public:
             }
             vs[s[i] - 'a']++;
             
-            if(compare(vp, vs)){
+            if(i + 1 >= p.size() && compare(vp, vs)){
                 v.push_back(i + 1 - p.size());
             }
         }
