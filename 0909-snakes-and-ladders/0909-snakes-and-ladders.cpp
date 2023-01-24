@@ -34,6 +34,9 @@ public:
                     
                     q.push(des);
                 }
+                if(des == n * n){
+                    return dist[des];
+                }
             }
         }
         return dist[n * n];
