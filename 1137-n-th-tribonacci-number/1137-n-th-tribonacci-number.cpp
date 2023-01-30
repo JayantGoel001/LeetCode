@@ -1,7 +1,7 @@
 class Solution {
 public:
     int tribonacci(int n) {
-        vector<int> f(38, 0);
+        vector<int> f(max(3, n + 1), 0);
         f[0] = 0;
         f[1] = 1;
         f[2] = 1;
