@@ -1,34 +1,37 @@
 class Solution {
 public:
-    bool compare(vector<int> &vp,vector<int> &vs){
-        bool flag = true;
+    bool check(vector<int> &mp){
         for(int i=0;i<26;i++){
-            if(vp[i] != vs[i]){
-                flag = false;
-                break;
+            if(mp[i] != 0){
+                return false;
             }
         }
-        return flag;
+        return true;
     }
     vector<int> findAnagrams(string s, string p) {
-        vector<int> vp(26, 0);
-        vector<int> vs(26, 0);
-        
-        for(auto it : p){
-            vp[it - 'a']++;
-        }
         vector<int> v;
-        for(int i=0;i<s.size();i++){
-            if(i >= p.size()){
-                vs[s[i - p.size()] - 'a']--;
-            }
-            vs[s[i] - 'a']++;
-            
-            if(i + 1 >= p.size() && compare(vp, vs)){
-                v.push_back(i + 1 - p.size());
-            }
+        if(p.size() > s.size()){
+            return v;
         }
         
+        vector<int> mp(26, 0);
+        for(auto it : p){
+            mp[it - 'a']++;
+        }
+        for(int i=0;i<p.size();i++){
+            mp[s[i]-'a']--;
+        }
+        if(check(mp)){
+            v.push_back(0);
+        }
+        for(int i=p.size();i<s.size();i++){
+            mp[s[i] - 'a']--;
+            mp[s[i - p.size()] - 'a']++;
+            
+            if(check(mp)){
+                v.push_back(i - p.size() + 1);
+            }
+        }
         return v;
     }
 };
