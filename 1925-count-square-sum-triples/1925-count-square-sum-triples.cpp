@@ -6,9 +6,9 @@ public:
             v[i * i] = true;
         }
         int count = 0;
-        for(int i=1;i<n;i++){
-            for(int j=1;j<n;j++){
-                count += (i * i + j * j <= n * n && v[i * i + j * j]);
+        for(int i = 1;i < n;i++){
+            for(int j = i + 1; j < n && i * i + j * j <= n * n;j++){
+                count += v[i * i + j * j] * 2;
             }
         }
         return count;
