@@ -8,19 +8,17 @@ public:
         int z = 0;
         
         for(int i=0;i<n;i++){
-            int maxi = 0;
+            int maxz = 0;
+            int maxy = 0;
+            
             for(int j=0;j<n;j++){
                 x += grid[i][j] > 0;
-                maxi = max(maxi, grid[i][j]);
+                
+                maxz = max(maxz, grid[i][j]);
+                maxy = max(maxy, grid[j][i]);
             }
-            z += maxi;
-        }
-        for(int j=0;j<n;j++){
-            int maxi = 0;
-            for(int i=0;i<n;i++){
-                maxi = max(maxi, grid[i][j]);
-            }
-            y += maxi;
+            z += maxz;
+            y += maxy;
         }
         return x + y + z;
     }
