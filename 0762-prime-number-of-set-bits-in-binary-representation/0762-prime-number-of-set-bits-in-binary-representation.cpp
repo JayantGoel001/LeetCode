@@ -1,5 +1,8 @@
 class Solution {
 public:
+    bool isPrime(int n){
+        return n == 2 || n == 3 || n == 5 || n == 7 || n == 11 || n == 13 || n == 17 || n == 19;
+    }
     int countPrimeSetBits(int left, int right) {
         unordered_set<int> st;
         st.insert(2);
@@ -20,7 +23,7 @@ public:
                 bits += num & 1;
                 num >>= 1;
             }
-            count += st.find(bits) != st.end();
+            count += isPrime(bits);
         }
         return count;
     }
