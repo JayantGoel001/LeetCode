@@ -15,16 +15,14 @@ public:
         
         int k = 0;
         for(int i=0;i<nums.size();i++){
-            while(k < nums.size() && nums[k] == 0){
+            nums[k] = nums[i];
+            if(nums[i] != 0){
                 k++;
-            }
-            if(k < nums.size()){
-                nums[i] = nums[k++];
             }
         }
         
-        for(int i=0;i<zero;i++){
-            nums[nums.size() - i - 1] = 0;
+        while(k < nums.size()){
+            nums[k++] = 0;
         }
         return nums;
     }
