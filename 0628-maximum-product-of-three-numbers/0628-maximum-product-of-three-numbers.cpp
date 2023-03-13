@@ -8,7 +8,7 @@ public:
         int max2 = INT_MIN;
         int max3 = INT_MIN;
         
-        for(auto it : nums){
+        for(int it : nums){
             if(it <= min1){
                 min2 = min1;
                 min1 = it;
