@@ -47,6 +47,7 @@ public:
     }
     
     bool search(string word) {
-        return find(word, root, 0);
+        TrieNode *temp = root;
+        return find(word, temp, 0);
     }
 };
