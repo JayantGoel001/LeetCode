@@ -37,13 +37,8 @@ public:
                 }
             }
             return false;
-        }else{
-            if(!temp->v[word[x] - 'a']){
-                return false;
-            }else{
-                return find(word, temp->v[word[x] - 'a'], x + 1);
-            }
         }
+        return temp->v[word[x] - 'a'] && find(word, temp->v[word[x] - 'a'], x + 1);
     }
     
     bool search(string word) {
