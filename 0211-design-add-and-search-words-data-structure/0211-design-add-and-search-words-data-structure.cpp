@@ -1,55 +1,53 @@
-class Node{
-  public:
-    unordered_map<char,Node*> mp;
+class TrieNode{
+    public:
     bool isEnd;
+    vector<TrieNode*> v;
     
-    Node(){
+    TrieNode(){
         isEnd = false;
+        v.resize(26, nullptr);
     }
 };
+
 class WordDictionary {
 public:
-    Node *head;
+    TrieNode *root;
     WordDictionary() {
-        head = new Node();
+        root = new TrieNode();
     }
     
     void addWord(string word) {
-        Node *temp = head;
+        TrieNode *temp = root;
         for(auto it : word){
-            if(temp->mp[it] == nullptr){
-                temp->mp[it] = new Node();
+            if(!temp->v[it - 'a']){
+                temp->v[it - 'a'] = new TrieNode();
             }
-            temp = temp->mp[it];
+            temp = temp->v[it - 'a'];
         }
         temp->isEnd = true;
     }
-    bool searchUtil(string &word,int x,Node *temp){
-        if(!temp){
-            return false;
-        }
+    bool find(string &word, TrieNode *temp, int x){
         if(x == word.size()){
-            return temp->isEnd;
+            return temp && temp->isEnd;
         }
-        if(word[x] != '.'){
-            if(temp->mp[word[x]] == nullptr){
-                return false;
-            }else{
-                return searchUtil(word,x+1,temp->mp[word[x]]);
-            }
-        }else{
-            for(auto it : temp->mp){
-                bool res = searchUtil(word,x+1,it.second);
-                if(res){
-                    return res;
+        if(word[x] == '.'){
+            for(int j=0;j<26;j++){
+                if(temp->v[j] && find(word, temp->v[j], x + 1)){
+                    return true;
                 }
             }
             return false;
+        }else{
+            if(!temp->v[word[x] - 'a']){
+                return false;
+            }else{
+                return find(word, temp->v[word[x] - 'a'], x + 1);
+            }
         }
     }
+    
     bool search(string word) {
-        Node *temp = head;
-        
-        return searchUtil(word,0,temp);
+        TrieNode *temp = root;
+        return find(word, temp, 0);
     }
 };
