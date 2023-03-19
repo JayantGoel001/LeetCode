@@ -27,14 +27,11 @@ public:
         temp->isEnd = true;
     }
     bool find(string &word, TrieNode *temp, int x){
-        if(!temp){
-            return false;
-        }
         for(int i=x;i<word.size();i++){
             if(word[i] == '.'){
                 bool found = false;
                 for(int j=0;j<26;j++){
-                    if(find(word, temp->v[j], i + 1)){
+                    if(temp->v[j] && find(word, temp->v[j], i + 1)){
                         found = true;
                         return true;
                     }
