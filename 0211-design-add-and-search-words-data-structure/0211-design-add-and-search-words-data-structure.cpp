@@ -27,22 +27,23 @@ public:
         temp->isEnd = true;
     }
     bool find(string &word, TrieNode *temp, int x){
-        for(int i=x;i<word.size();i++){
-            if(word[i] == '.'){
-                for(int j=0;j<26;j++){
-                    if(temp->v[j] && find(word, temp->v[j], i + 1)){
-                        return true;
-                    }
+        if(x == word.size()){
+            return temp && temp->isEnd;
+        }
+        if(word[x] == '.'){
+            for(int j=0;j<26;j++){
+                if(temp->v[j] && find(word, temp->v[j], x + 1)){
+                    return true;
                 }
+            }
+            return false;
+        }else{
+            if(!temp->v[word[x] - 'a']){
                 return false;
             }else{
-                if(!temp->v[word[i] - 'a']){
-                    return false;
-                }
-                temp = temp->v[word[i] - 'a'];
+                return find(word, temp->v[word[x] - 'a'], x + 1);
             }
         }
-        return temp && temp->isEnd;
     }
     
     bool search(string word) {
