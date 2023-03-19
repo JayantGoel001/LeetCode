@@ -1,53 +1,55 @@
-class TrieNode{
-    public:
+class Node{
+  public:
+    unordered_map<char,Node*> mp;
     bool isEnd;
-    vector<TrieNode*> v;
     
-    TrieNode(){
+    Node(){
         isEnd = false;
-        v.resize(26, nullptr);
     }
 };
-
 class WordDictionary {
 public:
-    TrieNode *root;
+    Node *head;
     WordDictionary() {
-        root = new TrieNode();
+        head = new Node();
     }
     
     void addWord(string word) {
-        TrieNode *temp = root;
+        Node *temp = head;
         for(auto it : word){
-            if(!temp->v[it - 'a']){
-                temp->v[it - 'a'] = new TrieNode();
+            if(temp->mp[it] == nullptr){
+                temp->mp[it] = new Node();
             }
-            temp = temp->v[it - 'a'];
+            temp = temp->mp[it];
         }
         temp->isEnd = true;
     }
-    bool find(string &word, TrieNode *temp, int x){
-        if(x == word.size()){
-            return temp && temp->isEnd;
+    bool searchUtil(string &word,int x,Node *temp){
+        if(!temp){
+            return false;
         }
-        if(word[x] == '.'){
-            for(int j=0;j<26;j++){
-                if(temp->v[j] && find(word, temp->v[j], x + 1)){
-                    return true;
+        if(x == word.size()){
+            return temp->isEnd;
+        }
+        if(word[x] != '.'){
+            if(temp->mp[word[x]] == nullptr){
+                return false;
+            }else{
+                return searchUtil(word,x+1,temp->mp[word[x]]);
+            }
+        }else{
+            for(auto it : temp->mp){
+                bool res = searchUtil(word,x+1,it.second);
+                if(res){
+                    return res;
                 }
             }
             return false;
-        }else{
-            if(!temp->v[word[x] - 'a']){
-                return false;
-            }else{
-                return find(word, temp->v[word[x] - 'a'], x + 1);
-            }
         }
     }
-    
     bool search(string word) {
-        TrieNode *temp = root;
-        return find(word, temp, 0);
+        Node *temp = head;
+        
+        return searchUtil(word,0,temp);
     }
 };
