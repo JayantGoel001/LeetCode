@@ -29,16 +29,12 @@ public:
     bool find(string &word, TrieNode *temp, int x){
         for(int i=x;i<word.size();i++){
             if(word[i] == '.'){
-                bool found = false;
                 for(int j=0;j<26;j++){
                     if(temp->v[j] && find(word, temp->v[j], i + 1)){
-                        found = true;
                         return true;
                     }
                 }
-                if(!found){
-                    return false;
-                }
+                return false;
             }else{
                 if(!temp->v[word[i] - 'a']){
                     return false;
