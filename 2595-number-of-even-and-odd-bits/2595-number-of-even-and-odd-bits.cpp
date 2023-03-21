@@ -5,8 +5,8 @@ public:
         bool odd = false;
         
         while(n){
-            v[odd] += n%2 == 1;
-            n /= 2;
+            v[odd] += (n&1) == 1;
+            n >>= 1;
             odd = !odd;
         }
         
