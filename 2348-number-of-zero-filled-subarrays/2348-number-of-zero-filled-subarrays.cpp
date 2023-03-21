@@ -7,11 +7,10 @@ public:
             if(it == 0){
                 count++;
             }else{
-                sum += ((long long)count * (count + 1))/2;
                 count = 0;
             }
+            sum += (long long)count;
         }
-        sum += ((long long)count * (count + 1))/2;
         return sum;
     }
 };
