@@ -30,9 +30,9 @@ public:
                 ll x = dfs(i);
                 
                 count += x * (num - x);
-                num -= x;
+                // num -= x;
             }
         }
-        return count;
+        return count/2;
     }
 };
