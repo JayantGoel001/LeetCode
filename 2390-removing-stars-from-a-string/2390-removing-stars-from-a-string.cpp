@@ -6,7 +6,7 @@ public:
             if(it == '*'){
                 str.pop_back();
             }else{
-                str += it;
+                str.push_back(it);
             }
         }
         return str;
