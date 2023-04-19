@@ -15,13 +15,8 @@ public:
     void dfs(TreeNode *root, bool goLeft, int steps){
         if(root){
             maxi = max(maxi, steps);
-            if(goLeft){
-                dfs(root->left, false, steps + 1);
-                dfs(root->right, true, 1);
-            }else{
-                dfs(root->right, true, steps + 1);
-                dfs(root->left, false, 1);
-            }
+            dfs(root->left, false, goLeft? steps + 1 : 1);
+            dfs(root->right, true, goLeft? 1 : steps + 1);
         }
     }
     int longestZigZag(TreeNode* root) {
