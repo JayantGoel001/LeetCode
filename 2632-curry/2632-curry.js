@@ -6,10 +6,7 @@ var curry = function(fn) {
     const v = [];
     return function curried(...args) {
         v.push(...args);
-        if(fn.length > v.length){
-            return curried;
-        }
-        return fn(...v);
+        return fn.length > v.length ? curried : fn(...v);
     };
 };
 
