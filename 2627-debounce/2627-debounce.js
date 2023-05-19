@@ -1,10 +1,10 @@
 var debounce = function(fn, t) {
-  let timeout;
-  return function(...args) {
-    clearTimeout(timeout);
+    let timeout;
+    return function(...args) {
+        clearTimeout(timeout);
       
-    timeout = setTimeout(() => {
-      fn(...args)
-    }, t);
-  };
+        timeout = setTimeout(() => {
+            fn(...args)
+        }, t);
+    };
 };
