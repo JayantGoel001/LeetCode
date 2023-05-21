@@ -1,53 +1,66 @@
 class Solution {
 public:
-    int uf_find(int i, vector<int>& nodes) {
-  if (nodes[i] <= 0) return i;
-  else return nodes[i] = uf_find(nodes[i], nodes);
-}
-int uf_union(int i, int j, vector<int>& nodes) {
-  auto pi = uf_find(i, nodes), pj = uf_find(j, nodes);
-  if (pi == pj) return 0;
-  if (nodes[pi] > nodes[pj]) swap(pi, pj);
-  nodes[pi] += min(-1, nodes[pj]);
-  nodes[pj] = pi;
-  return -nodes[pi];
-}
-int shortestBridge(vector<vector<int>> &A) {
-  int sz = A.size();
-  vector<int> nodes(sz * sz + 1);
-  list<pair<int, int>> edges;
-  for (auto i = 0; i < sz; ++i)
-    for (auto j = 0; j < sz; ++j) {
-      auto idx = i * sz + j + 1;
-      if (A[i][j]) nodes[idx] = -1;
-      if (j > 0) {
-        if (A[i][j] && A[i][j - 1]) uf_union(idx - 1, idx, nodes);
-        else edges.push_back({ idx - 1, idx });
-      }
-      if (i > 0) {
-        if (A[i][j] && A[i - 1][j]) uf_union(idx - sz, idx, nodes);
-        else edges.push_back({ idx - sz, idx });
-      }
-    }
-
-  for (auto step = 1; ; ++step) {
-    vector<pair<int, int>> merge_list;
-    for (auto it = edges.begin(); it != edges.end(); ) {
-      if (nodes[it->first] == 0 && nodes[it->second] == 0) ++it;
-      else {
-        if (nodes[it->first] != 0 && nodes[it->second] != 0) {
-          if (uf_find(it->first, nodes) != uf_find(it->second, nodes)) return (step - 1) * 2;
+    
+    queue<pair<pair<int,int>,int>> q;
+    
+    void dfs(vector<vector<int>>& grid, int x, int y, int row, int col, vector<vector<bool>> &vis){
+        if(x<0 || x>=row || y<0 || y>=col || vis[x][y] || grid[x][y]==0) return;
+        vis[x][y] = true;
+        grid[x][y] = 0;
+        q.push({{x,y},0});
+        
+        int dx[] = {0,1,0,-1};
+        int dy[] = {1,0,-1,0};
+        
+        for(int i=0;i<4;++i){
+            int x1 = x+dx[i], y1 = y+dy[i];
+            if(x1<0 || x1>=row || y1<0 || y1>=col || vis[x1][y1] || grid[x1][y1]==0) continue;
+            dfs(grid,x1,y1,row,col,vis);
         }
-        merge_list.push_back({ it->first, it->second });
-        edges.erase(it++);
-      }
+        return;
     }
-    for (auto p : merge_list) {
-      if (nodes[p.first] != 0 && nodes[p.second] != 0) {
-        if (uf_find(p.first, nodes) != uf_find(p.second, nodes)) return step * 2 - 1;
-      }
-      uf_union(p.first, p.second, nodes);
+    
+    int shortestBridge(vector<vector<int>>& grid) {
+        
+        int row = grid.size();
+        int col = grid[0].size();
+        bool flag = false;
+        
+        vector<vector<bool>> vis(row,vector<bool>(col,false));
+        
+        for(int i=0;i<row;++i){
+            for(int j=0;j<col;++j){
+                if(!vis[i][j] && grid[i][j]==1){
+                    dfs(grid,i,j,row,col,vis);
+                    flag=true;
+                    break;
+                }
+            }
+            if(flag) break;
+        }
+        
+        int dx[] = {0,1,0,-1};
+        int dy[] = {1,0,-1,0};
+
+        while(!q.empty()){ 
+            int x = q.front().first.first;
+            int y = q.front().first.second;
+            int dis = q.front().second;
+            q.pop();
+
+            for(int i=0;i<4;++i){
+                int x1 = x+dx[i];
+                int y1 = y+dy[i];
+
+                if(x1<0 || x1>=row || y1<0 || y1>=col || vis[x1][y1]) continue;
+
+                if(grid[x1][y1]==1) return dis;
+                else {
+                    vis[x1][y1] = true;
+                    q.push({{x1,y1},dis+1});
+                }
+            }
+        }
+        return -1;
     }
-  }
-}
 };
