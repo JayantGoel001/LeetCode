@@ -1,11 +1,7 @@
-var fibGenerator = function*() {
-    let prev1 = 0;
-    let prev2 = 1;
+var fibGenerator = function*(a = 0, b=1) {
+    // yield the first number
+    yield a;
 
-    while(true) {
-        yield prev1;
-        const temp = prev1;
-        prev1 = prev2;
-        prev2 += temp;
-    }
+    // recursively call fibGenerator and yield the entire generator function
+    yield* fibGenerator(b, a+b);
 };
