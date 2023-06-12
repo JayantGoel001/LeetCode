@@ -1,28 +1,22 @@
 class Solution {
 public:
     vector<string> summaryRanges(vector<int>& nums) {
-        int prev = INT_MIN;
-        vector<string> v;
-        string str = "";
-        int n = nums.size();
-        
-        int i = 0;
-        while(i < n){
-            str = to_string(nums[i]);
-            int x = i;
-            while(i + 1 < n && nums[i] + 1 == nums[i + 1]){
+        vector<string> ranges;
+
+        for (int i = 0; i < nums.size(); i++) {
+            int start = nums[i];
+            // Keep iterating until the next element is one more than the current element.
+            while (i + 1 < nums.size() && nums[i] + 1 == nums[i + 1]) {
                 i++;
             }
-            if(x != i){
-                str.append("->");
-                str.append(to_string(nums[i]));   
-            }
-            
-            v.push_back(str);
 
-            str = "";
-            i++;
+            if (start != nums[i]) {
+                ranges.push_back(to_string(start) + "->" + to_string(nums[i]));
+            } else {
+                ranges.push_back(to_string(start));
+            }
         }
-        return v;
+
+        return ranges;
     }
 };
