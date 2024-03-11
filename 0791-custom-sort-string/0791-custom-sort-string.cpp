@@ -17,7 +17,6 @@ public:
                 result += (i + 'a');
             }
         }
-        cout<<result;
         return result;
     }
 };
