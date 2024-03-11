@@ -1,15 +1,23 @@
 class Solution {
 public:
     string customSortString(string order, string s) {
-        vector<int> v(26);
-        for(int i=0;i<order.size();i++){
-            v[order[i] - 'a'] = i;
+        vector<int> v(26, 0);
+        
+        for(auto it: s){
+            v[it - 'a']++;
         }
-        
-        sort(s.begin(), s.end(), [v](const char &a, const char &b) -> bool{
-            return v[a - 'a'] < v[b - 'a'];
-        });
-        
-        return s;
+        string result = "";
+        for(auto it : order){
+            while(v[it - 'a']-- > 0){
+                result += it;
+            }
+        }
+        for(int i=0;i<v.size();i++){
+            while(v[i]-- > 0){
+                result += (i + 'a');
+            }
+        }
+        cout<<result;
+        return result;
     }
 };
