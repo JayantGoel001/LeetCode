@@ -8,7 +8,7 @@ public:
 private:
     int moves;
     int dfs(TreeNode* current) {
-        if (current == nullptr) return 0;
+        if (!current) return 0;
 
         // Calculate the coins each subtree has available to exchange
         int leftCoins = dfs(current->left);
