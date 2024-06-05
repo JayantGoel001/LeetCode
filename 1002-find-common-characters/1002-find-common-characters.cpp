@@ -10,15 +10,15 @@ public:
         }
         
         vector<string> res;
-        for(int i=0;i<26;i++) {
+        for(int j=0;j<26;j++) {
             int mini = INT_MAX;
             
-            for(int j=0;j<words.size();j++) {
-                mini = min(mini, v[j][i]);
+            for(int i=0;i<words.size();i++) {
+                mini = min(mini, v[i][j]);
             }
             
             while(mini--) {
-                string str(1, i + 'a');
+                string str(1, j + 'a');
                 res.push_back(str);
             }
         }
