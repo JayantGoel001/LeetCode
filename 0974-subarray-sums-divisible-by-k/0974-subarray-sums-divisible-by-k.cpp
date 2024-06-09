@@ -12,9 +12,7 @@ public:
         
         int count = 0;
         for(auto it : nums) {
-            count += v[it];
-            
-            v[it]++;
+            count += v[it]++;
         }
         
         return count;
