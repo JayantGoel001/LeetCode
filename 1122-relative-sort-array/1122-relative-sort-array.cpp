@@ -1,19 +1,26 @@
 class Solution {
 public:
     vector<int> relativeSortArray(vector<int>& arr1, vector<int>& arr2) {
-        unordered_map<int,int> mp;
-        
-        for(int i=0;i<arr2.size();i++) {
-            mp[arr2[i]] = i + 1;
+        map<int,int> mp;
+        for(auto it : arr1) {
+            mp[it]++;
         }
         
-        sort(arr1.begin(),arr1.end(), [&](const int a, const int b)->bool{
-            int x = mp[a] == 0 ? arr2.size() + a + 1 : mp[a];
-            int y = mp[b] == 0 ? arr2.size() + b + 1 : mp[b];
-            
-            return x <= y;
-        });
+        vector<int> v;
+        for(auto it : arr2) {
+            while(mp[it]) {
+                v.push_back(it);
+                mp[it]--;
+            }
+        }
         
-        return arr1;
+        for(auto it : mp) {
+            while(mp[it.first]) {
+                v.push_back(it.first);
+                mp[it.first]--;
+            }
+        }
+        
+        return v;
     }
 };
