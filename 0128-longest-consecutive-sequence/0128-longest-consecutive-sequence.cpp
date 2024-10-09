@@ -6,7 +6,7 @@ public:
         int maxi = 0;
         for(auto num : nums) {
             if (st.find(num - 1) == st.end()) {
-                int x = num;
+                int x = num + 1;
                 while(st.find(x) != st.end()) x++;
                 
                 maxi = max(maxi, x - num);
