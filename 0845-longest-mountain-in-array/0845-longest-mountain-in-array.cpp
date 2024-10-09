@@ -24,7 +24,7 @@ public:
                     maxi = max(maxi, y - i + 1);
                     i = y;
                 } else {
-                    i = x;   
+                    i = x+1;
                 }
             } else {
                 i++;
