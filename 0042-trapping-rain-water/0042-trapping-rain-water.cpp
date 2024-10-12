@@ -12,7 +12,7 @@ public:
         int trapped = 0;
         int leftMax = height[0];
         for(int i=1;i < height.size() - 1;i++) {
-            trapped += max(0, (min(leftMax, rightMax[i + 1]) - height[i]));
+            trapped += max(0, min(leftMax, rightMax[i + 1]) - height[i]);
             leftMax = max(leftMax, height[i]);
         }
         
