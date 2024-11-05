@@ -13,6 +13,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JayantGoel001/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String Matching
 |  |
@@ -21,9 +22,14 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 ## Greedy
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
