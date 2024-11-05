@@ -7,6 +7,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
 | [2580-circular-sentence](https://github.com/JayantGoel001/LeetCode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JayantGoel001/LeetCode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JayantGoel001/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/JayantGoel001/LeetCode/tree/master/3451-string-compression-iii) |
 ## Hash Table
