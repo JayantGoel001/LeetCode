@@ -25,6 +25,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JayantGoel001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -62,5 +63,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JayantGoel001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 <!---LeetCode Topics End-->
