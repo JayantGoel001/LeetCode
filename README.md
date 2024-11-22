@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JayantGoel001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JayantGoel001/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -28,6 +29,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/JayantGoel001/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -46,6 +48,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Bit Manipulation
 |  |
