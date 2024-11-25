@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 ## Matrix
 |  |
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
