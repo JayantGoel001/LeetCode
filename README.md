@@ -126,4 +126,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
