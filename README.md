@@ -80,6 +80,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -102,6 +103,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
@@ -193,4 +196,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
