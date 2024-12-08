@@ -180,4 +180,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
