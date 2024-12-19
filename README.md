@@ -38,6 +38,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -73,6 +74,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1917-maximum-average-pass-ratio](https://github.com/JayantGoel001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
+| [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -148,11 +151,13 @@
 ## Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
