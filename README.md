@@ -222,6 +222,7 @@
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/JayantGoel001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/JayantGoel001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
