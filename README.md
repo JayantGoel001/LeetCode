@@ -115,6 +115,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/JayantGoel001/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2509-minimize-xor) |
@@ -466,6 +468,7 @@
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -535,6 +538,7 @@
 | ------- |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JayantGoel001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -583,4 +587,12 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
