@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -267,6 +268,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -324,6 +326,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
