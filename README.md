@@ -101,6 +101,7 @@
 | [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/JayantGoel001/LeetCode/tree/master/0135-candy) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/JayantGoel001/LeetCode/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
