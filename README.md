@@ -610,6 +610,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -748,6 +749,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Enumeration
 |  |
 | ------- |
