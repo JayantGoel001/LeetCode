@@ -329,6 +329,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -674,6 +675,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -706,6 +708,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JayantGoel001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
