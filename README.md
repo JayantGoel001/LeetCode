@@ -64,6 +64,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JayantGoel001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [3678-design-task-manager](https://github.com/JayantGoel001/LeetCode/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JayantGoel001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JayantGoel001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
@@ -301,6 +303,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JayantGoel001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JayantGoel001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
 | ------- |
@@ -365,6 +368,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JayantGoel001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -923,6 +927,7 @@
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/JayantGoel001/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
