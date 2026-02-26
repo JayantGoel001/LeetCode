@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/">1404. Number of Steps to Reduce a Number in Binary Representation to One</a></h2><h3>Medium</h3><hr><div><p>Given the binary representation of an integer as a string <code>s</code>, return <em>the number of steps to reduce it to </em><code>1</code><em> under the following rules</em>:</p>
+<h2><a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one">1520. Number of Steps to Reduce a Number in Binary Representation to One</a></h2><h3>Medium</h3><hr><p>Given the binary representation of an integer as a string <code>s</code>, return <em>the number of steps to reduce it to </em><code>1</code><em> under the following rules</em>:</p>
 
 <ul>
 	<li>
@@ -14,9 +14,10 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "1101"
+<pre>
+<strong>Input:</strong> s = &quot;1101&quot;
 <strong>Output:</strong> 6
-<strong>Explanation:</strong> "1101" corressponds to number 13 in their decimal representation.
+<strong>Explanation:</strong> &quot;1101&quot; corressponds to number 13 in their decimal representation.
 Step 1) 13 is odd, add 1 and obtain 14.&nbsp;
 Step 2) 14 is even, divide by 2 and obtain 7.
 Step 3) 7 is odd, add 1 and obtain 8.
@@ -27,15 +28,17 @@ Step 6) 2 is even, divide by 2 and obtain 1.&nbsp;
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "10"
+<pre>
+<strong>Input:</strong> s = &quot;10&quot;
 <strong>Output:</strong> 1
-<strong>Explanation:</strong> "10" corressponds to number 2 in their decimal representation.
+<strong>Explanation:</strong> &quot;10&quot; corresponds to number 2 in their decimal representation.
 Step 1) 2 is even, divide by 2 and obtain 1.&nbsp; 
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
-<pre><strong>Input:</strong> s = "1"
+<pre>
+<strong>Input:</strong> s = &quot;1&quot;
 <strong>Output:</strong> 0
 </pre>
 
@@ -44,7 +47,6 @@ Step 1) 2 is even, divide by 2 and obtain 1.&nbsp;
 
 <ul>
 	<li><code>1 &lt;= s.length&nbsp;&lt;= 500</code></li>
-	<li><code>s</code> consists of characters '0' or '1'</li>
-	<li><code>s[0] == '1'</code></li>
+	<li><code>s</code> consists of characters &#39;0&#39; or &#39;1&#39;</li>
+	<li><code>s[0] == &#39;1&#39;</code></li>
 </ul>
-</div>
