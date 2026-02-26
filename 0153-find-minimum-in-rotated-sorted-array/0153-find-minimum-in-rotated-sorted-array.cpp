@@ -5,7 +5,7 @@ public:
         int high = nums.size() - 1;
 
         while(low < high) {
-            if (nums[low] < nums[high]) return nums[low];
+            if (nums[low] < nums[high]) break;
 
             int mid = low + (high - low) / 2;
             if (nums[low] <= nums[mid]) { 
