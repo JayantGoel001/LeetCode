@@ -27,13 +27,14 @@ class Solution {
 
 public:
     void findAllWords(Trie* trie, vector<vector<char>>& board, int i, int j,
-                      vector<string>& words, unordered_set<string>& res,
+                      vector<string>& words, vector<string>& res,
                       vector<pii>& directions) {
         if (!trie)
             return;
 
-        if (trie->index != -1) {
-            res.insert(words[trie->index]);
+        if (trie->index != -1 && words[trie->index].size() > 0) {
+            res.push_back(words[trie->index]);
+            words[trie->index] = "";
         }
 
         char ch = board[i][j];
@@ -63,7 +64,7 @@ public:
         int n = board.size();
         int m = board[0].size();
 
-        unordered_set<string> res;
+        vector<string> res;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 findAllWords(trie->children[board[i][j] - 'a'], board, i, j,
@@ -71,6 +72,6 @@ public:
             }
         }
 
-        return vector<string>(res.begin(), res.end());
+        return res;
     }
 };
