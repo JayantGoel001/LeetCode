@@ -149,6 +149,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/0118-pascals-triangle) |
@@ -416,6 +417,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
