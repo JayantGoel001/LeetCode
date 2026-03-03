@@ -77,6 +77,7 @@
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -756,6 +757,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -956,6 +958,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -1014,4 +1017,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
