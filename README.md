@@ -7,6 +7,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
+| [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -154,6 +155,7 @@
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JayantGoel001/LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayantGoel001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -358,6 +360,7 @@
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0427-construct-quad-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0427-construct-quad-tree) |
@@ -898,6 +901,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
+| [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JayantGoel001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -907,6 +911,7 @@
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/JayantGoel001/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
