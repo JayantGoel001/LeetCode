@@ -8,10 +8,8 @@ public:
             while(i < path.size() && path[i] != '/') {
                 temp.push_back(path[i++]);
             }
-            
-            if (temp == "..") {
-              if (!st.empty()) st.pop();
-            } else if (temp != "." && temp != "") st.push("/" + temp);
+            if (temp != ".." && temp != "." && temp != "") st.push("/" + temp);
+            if (temp == ".." && !st.empty()) st.pop();
             
             i++;
         }
