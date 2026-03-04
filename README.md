@@ -7,6 +7,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
+| [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
@@ -544,6 +545,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
