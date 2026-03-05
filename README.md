@@ -162,6 +162,7 @@
 | [0198-house-robber](https://github.com/JayantGoel001/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -368,6 +369,7 @@
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0427-construct-quad-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0498-diagonal-traverse](https://github.com/JayantGoel001/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -611,6 +613,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/JayantGoel001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/JayantGoel001/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
