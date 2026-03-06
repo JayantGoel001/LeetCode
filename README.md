@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -489,6 +491,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
