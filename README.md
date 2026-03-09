@@ -698,6 +698,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JayantGoel001/LeetCode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -818,6 +819,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/JayantGoel001/LeetCode/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/JayantGoel001/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JayantGoel001/LeetCode/tree/master/0326-power-of-three) |
@@ -1030,6 +1032,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JayantGoel001/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
