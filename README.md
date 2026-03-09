@@ -205,6 +205,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JayantGoel001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/JayantGoel001/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
