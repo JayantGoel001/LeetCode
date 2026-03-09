@@ -1,18 +1,13 @@
 class Solution {
 public:
-    vector<vector<int>> v;
-    int getPaths(int m, int n){
-        if(m == 1 || n == 1){
-            return 1;
-        }
-        if(v[m][n] == 0){
-            v[m][n] = getPaths(m - 1, n) + getPaths(m, n - 1);
-        }
-        return v[m][n];
-    }
     int uniquePaths(int m, int n) {
-        v.resize(m + 1, vector<int> (n + 1, 0));
-        
-        return getPaths(m,n);
+        vector<int> dp(n + 1, 0);
+        for(int i=1;i<=m;i++) {
+            for(int j=1;j<=n;j++) {
+                if (i == 1 && j == 1) dp[j] = 1;
+                else dp[j] += dp[j - 1];
+            }
+        }
+        return dp[n];
     }
 };
