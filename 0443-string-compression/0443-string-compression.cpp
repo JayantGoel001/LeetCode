@@ -1,36 +1,36 @@
 class Solution {
 public:
-    void convertNumberToChars(vector<char> &chars, int group, int &k){
-        stack<char> st;
-        while(group){
-            st.push('0' + group%10);
-            group/=10;
+    void update(vector<char>& chars, int &total, int curr, int &start, int index) {
+        chars[start++] = chars[index - 1];
+        total++;
+
+        if (curr == 1) {
+            return;
         }
-        while(!st.empty()){
-            chars[k++] = st.top();
-            st.pop();
+        
+        int x = start;
+        while (curr > 0) {
+            chars[start++] = '0' + curr % 10;
+            curr /= 10;
+            total++;
         }
+        reverse(chars.begin() + x, chars.begin() + start);
     }
     int compress(vector<char>& chars) {
-        int group = 0;
-        char ch = chars[0];
-        int k = 0;
-        for(auto it : chars){
-            if(it != ch){
-                chars[k++] = ch;
-                if(group > 1){
-                    convertNumberToChars(chars, group, k);
-                }
-                ch = it;
-                group = 1;
-            }else{
-                group++;
+        int total = 0;
+        int curr = 0;
+        int start = 0;
+        int i;
+        for(i=0;i<chars.size();i++) {
+            if (i == 0 || chars[i] == chars[i - 1]) {
+                curr++;
+            } else {
+                update(chars, total, curr, start, i);
+                curr = 1;
             }
         }
-        chars[k++] = ch;
-        if(group > 1){
-            convertNumberToChars(chars, group, k);
-        }
-        return k;
+
+        update(chars, total, curr, start, chars.size());
+        return total;
     }
 };
