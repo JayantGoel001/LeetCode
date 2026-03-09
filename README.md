@@ -170,6 +170,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JayantGoel001/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/JayantGoel001/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayantGoel001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayantGoel001/LeetCode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/JayantGoel001/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -418,6 +419,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/JayantGoel001/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/JayantGoel001/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
