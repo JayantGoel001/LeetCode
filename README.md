@@ -98,6 +98,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1207-unique-number-of-occurrences](https://github.com/JayantGoel001/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JayantGoel001/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -201,6 +202,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JayantGoel001/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/JayantGoel001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1207-unique-number-of-occurrences](https://github.com/JayantGoel001/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/JayantGoel001/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JayantGoel001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
