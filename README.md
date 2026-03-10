@@ -186,6 +186,7 @@
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/JayantGoel001/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/JayantGoel001/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/JayantGoel001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
@@ -508,6 +509,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0643-maximum-average-subarray-i](https://github.com/JayantGoel001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
