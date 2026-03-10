@@ -821,6 +821,7 @@
 | [0086-partition-list](https://github.com/JayantGoel001/LeetCode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -877,6 +878,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/JayantGoel001/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/JayantGoel001/LeetCode/tree/master/0326-power-of-three) |
