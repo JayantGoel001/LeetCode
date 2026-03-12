@@ -725,6 +725,7 @@
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0746-min-cost-climbing-stairs](https://github.com/JayantGoel001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0790-domino-and-tromino-tiling](https://github.com/JayantGoel001/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0806-domino-and-tromino-tiling](https://github.com/JayantGoel001/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
