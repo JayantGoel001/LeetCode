@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/min-cost-climbing-stairs/">746. Min Cost Climbing Stairs</a></h2><h3>Easy</h3><hr><div><p>You are given an integer array <code>cost</code> where <code>cost[i]</code> is the cost of <code>i<sup>th</sup></code> step on a staircase. Once you pay the cost, you can either climb one or two steps.</p>
+<h2><a href="https://leetcode.com/problems/min-cost-climbing-stairs">747. Min Cost Climbing Stairs</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>cost</code> where <code>cost[i]</code> is the cost of <code>i<sup>th</sup></code> step on a staircase. Once you pay the cost, you can either climb one or two steps.</p>
 
 <p>You can either start from the step with index <code>0</code>, or the step with index <code>1</code>.</p>
 
@@ -7,7 +7,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> cost = [10,<u>15</u>,20]
+<pre>
+<strong>Input:</strong> cost = [10,<u>15</u>,20]
 <strong>Output:</strong> 15
 <strong>Explanation:</strong> You will start at index 1.
 - Pay 15 and climb two steps to reach the top.
@@ -16,7 +17,8 @@ The total cost is 15.
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> cost = [<u>1</u>,100,<u>1</u>,1,<u>1</u>,100,<u>1</u>,<u>1</u>,100,<u>1</u>]
+<pre>
+<strong>Input:</strong> cost = [<u>1</u>,100,<u>1</u>,1,<u>1</u>,100,<u>1</u>,<u>1</u>,100,<u>1</u>]
 <strong>Output:</strong> 6
 <strong>Explanation:</strong> You will start at index 0.
 - Pay 1 and climb two steps to reach index 2.
@@ -35,4 +37,3 @@ The total cost is 6.
 	<li><code>2 &lt;= cost.length &lt;= 1000</code></li>
 	<li><code>0 &lt;= cost[i] &lt;= 999</code></li>
 </ul>
-</div>
