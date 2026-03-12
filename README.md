@@ -190,6 +190,7 @@
 | [0605-can-place-flowers](https://github.com/JayantGoel001/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/JayantGoel001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0746-min-cost-climbing-stairs](https://github.com/JayantGoel001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -723,6 +724,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0746-min-cost-climbing-stairs](https://github.com/JayantGoel001/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/JayantGoel001/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
