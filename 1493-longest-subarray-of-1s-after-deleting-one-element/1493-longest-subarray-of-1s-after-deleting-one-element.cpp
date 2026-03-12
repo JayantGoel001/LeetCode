@@ -1,24 +1,18 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
-        // Number of zero's in the window.
-        int zeroCount = 0;
-        int longestWindow = 0;
-        // Left end of the window.
+        vector<int> dp(2, 0);
+
+        int maxi = 0;
         int start = 0;
-        
-        for (int i = 0; i < nums.size(); i++) {
-            zeroCount += (nums[i] == 0);
-                          
-            // Shrink the window until the zero counts come under the limit.
-            while (zeroCount > 1) {
-                zeroCount -= (nums[start] == 0);
-                start++;
+        for(int i=0;i<nums.size();i++) {
+            while(start <= i && dp[0] > 1) {
+                dp[nums[start++]]--;
             }
-              
-            longestWindow = max(longestWindow, i - start);
+            dp[nums[i]]++;
+            maxi = max(maxi, dp[1] - (dp[0] == 1 ? 0 : 1));
         }
 
-        return longestWindow;
+        return maxi;
     }
 };
