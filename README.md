@@ -731,6 +731,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/JayantGoel001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/JayantGoel001/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/JayantGoel001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -849,6 +850,7 @@
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1089,6 +1091,7 @@
 ## Memoization
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/JayantGoel001/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/JayantGoel001/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
