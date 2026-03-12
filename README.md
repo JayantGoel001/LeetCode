@@ -428,6 +428,7 @@
 | ------- |
 | [0136-single-number](https://github.com/JayantGoel001/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/JayantGoel001/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/JayantGoel001/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JayantGoel001/LeetCode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1009-complement-of-base-10-integer) |
@@ -719,6 +720,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/JayantGoel001/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/JayantGoel001/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
+| [0338-counting-bits](https://github.com/JayantGoel001/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
