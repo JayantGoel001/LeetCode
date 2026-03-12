@@ -179,6 +179,7 @@
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/JayantGoel001/LeetCode/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/JayantGoel001/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -493,6 +494,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/JayantGoel001/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
