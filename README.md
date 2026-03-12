@@ -201,6 +201,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/JayantGoel001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JayantGoel001/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -498,6 +499,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JayantGoel001/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -527,6 +529,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/JayantGoel001/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/JayantGoel001/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/JayantGoel001/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -571,6 +574,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayantGoel001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayantGoel001/LeetCode/tree/master/0162-find-peak-element) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JayantGoel001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
