@@ -1,25 +1,27 @@
 class Solution {
 public:
+    vector<int> findDiff(vector<int>& nums, unordered_set<int> &st) {
+        vector<int> v;
+        for(auto it : nums) {
+            if (st.find(it) == st.end()) {
+                v.push_back(it);
+                st.insert(it);
+            }
+        }
+
+        return v;
+    }
     vector<vector<int>> findDifference(vector<int>& nums1, vector<int>& nums2) {
-        unordered_map<int,int> mp1,mp2;
-        for(auto it : nums1){
-            mp1[it]++;
-        }
-        for(auto it : nums2){
-            mp2[it]++;
-        }
-        vector<int> v1;
-        for(auto it : mp1){
-            if(mp2[it.first]==0){
-                v1.push_back(it.first);
-            }
-        }
-        vector<int> v2;
-        for(auto it : mp2){
-            if(mp1[it.first]==0){
-                v2.push_back(it.first);
-            }
-        }
-        return {v1,v2};
+        unordered_set<int> st1, st2;
+
+        for(auto it : nums1) st1.insert(it);
+        for(auto it : nums2) st2.insert(it);
+
+        vector<vector<int>> res;
+
+        res.push_back(findDiff(nums1, st2));
+        res.push_back(findDiff(nums2, st1));
+
+        return res;
     }
 };
