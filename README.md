@@ -118,6 +118,7 @@
 | [2107-find-unique-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JayantGoel001/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JayantGoel001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -262,6 +263,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JayantGoel001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JayantGoel001/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JayantGoel001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
