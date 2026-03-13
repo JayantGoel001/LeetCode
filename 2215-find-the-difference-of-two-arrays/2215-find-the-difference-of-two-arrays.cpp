@@ -1,11 +1,10 @@
 class Solution {
 public:
-    vector<int> findDiff(vector<int>& nums, unordered_set<int> &st) {
+    vector<int> findDiff(unordered_set<int> &st1, unordered_set<int> &st2) {
         vector<int> v;
-        for(auto it : nums) {
-            if (st.find(it) == st.end()) {
+        for(auto it : st1) {
+            if (st2.find(it) == st2.end()) {
                 v.push_back(it);
-                st.insert(it);
             }
         }
 
@@ -19,8 +18,8 @@ public:
 
         vector<vector<int>> res;
 
-        res.push_back(findDiff(nums1, st2));
-        res.push_back(findDiff(nums2, st1));
+        res.push_back(findDiff(st1, st2));
+        res.push_back(findDiff(st2, st1));
 
         return res;
     }
