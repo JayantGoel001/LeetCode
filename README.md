@@ -169,6 +169,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JayantGoel001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/0056-merge-intervals) |
@@ -369,6 +370,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JayantGoel001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/JayantGoel001/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/JayantGoel001/LeetCode/tree/master/0135-candy) |
@@ -570,6 +572,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JayantGoel001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/JayantGoel001/LeetCode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
