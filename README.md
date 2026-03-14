@@ -113,6 +113,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/JayantGoel001/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/JayantGoel001/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JayantGoel001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JayantGoel001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -240,6 +241,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/JayantGoel001/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JayantGoel001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/JayantGoel001/LeetCode/tree/master/1755-defuse-the-bomb) |
@@ -483,6 +485,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1657-determine-if-two-strings-are-close](https://github.com/JayantGoel001/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
@@ -579,6 +582,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/JayantGoel001/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
