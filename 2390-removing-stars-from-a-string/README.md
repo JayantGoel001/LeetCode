@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</a></h2><h3>Medium</h3><hr><div><p>You are given a string <code>s</code>, which contains stars <code>*</code>.</p>
+<h2><a href="https://leetcode.com/problems/removing-stars-from-a-string">2470. Removing Stars From a String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code>, which contains stars <code>*</code>.</p>
 
 <p>In one operation, you can:</p>
 
@@ -19,18 +19,20 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> s = "leet**cod*e"
-<strong>Output:</strong> "lecoe"
+<pre>
+<strong>Input:</strong> s = &quot;leet**cod*e&quot;
+<strong>Output:</strong> &quot;lecoe&quot;
 <strong>Explanation:</strong> Performing the removals from left to right:
-- The closest character to the 1<sup>st</sup> star is 't' in "lee<strong><u>t</u></strong>**cod*e". s becomes "lee*cod*e".
-- The closest character to the 2<sup>nd</sup> star is 'e' in "le<strong><u>e</u></strong>*cod*e". s becomes "lecod*e".
-- The closest character to the 3<sup>rd</sup> star is 'd' in "leco<strong><u>d</u></strong>*e". s becomes "lecoe".
-There are no more stars, so we return "lecoe".</pre>
+- The closest character to the 1<sup>st</sup> star is &#39;t&#39; in &quot;lee<strong><u>t</u></strong>**cod*e&quot;. s becomes &quot;lee*cod*e&quot;.
+- The closest character to the 2<sup>nd</sup> star is &#39;e&#39; in &quot;le<strong><u>e</u></strong>*cod*e&quot;. s becomes &quot;lecod*e&quot;.
+- The closest character to the 3<sup>rd</sup> star is &#39;d&#39; in &quot;leco<strong><u>d</u></strong>*e&quot;. s becomes &quot;lecoe&quot;.
+There are no more stars, so we return &quot;lecoe&quot;.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> s = "erase*****"
-<strong>Output:</strong> ""
+<pre>
+<strong>Input:</strong> s = &quot;erase*****&quot;
+<strong>Output:</strong> &quot;&quot;
 <strong>Explanation:</strong> The entire string is removed, so we return an empty string.
 </pre>
 
@@ -42,4 +44,3 @@ There are no more stars, so we return "lecoe".</pre>
 	<li><code>s</code> consists of lowercase English letters and stars <code>*</code>.</li>
 	<li>The operation above can be performed on <code>s</code>.</li>
 </ul>
-</div>
