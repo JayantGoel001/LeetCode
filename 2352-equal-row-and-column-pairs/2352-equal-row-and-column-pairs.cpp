@@ -13,18 +13,14 @@ public:
             mp1[str]++;
         }
 
+        int count = 0;
         for(int j=0;j<grid.size();j++) {
             string str = "";
             for(int i=0;i<grid.size();i++) {
                 str += to_string(grid[i][j]);
                 str.push_back('.');
             }
-            mp2[str]++;
-        }
-
-        int count = 0;
-        for(auto it : mp1) {
-            count += it.second * mp2[it.first];
+            count += mp1[str];
         }
 
         return count;
