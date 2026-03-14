@@ -55,6 +55,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/JayantGoel001/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -629,6 +630,7 @@
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JayantGoel001/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JayantGoel001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JayantGoel001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JayantGoel001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -700,6 +702,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JayantGoel001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/JayantGoel001/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
