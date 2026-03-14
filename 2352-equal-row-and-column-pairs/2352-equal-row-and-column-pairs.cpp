@@ -1,20 +1,32 @@
 class Solution {
 public:
-    int equalPairs(vector<vector<int>>& g) {
-        int res = 0, n = g.size();
-        map<vector<int>, int> m;
-        for (int j = 0; j < n; ++j) {
-            vector<int> col;
-            for (int i = 0; i < n; ++i)
-                col.push_back(g[i][j]);
-            auto it = m.find(col);
-            if (it == end(m))
-                m.emplace(move(col), 1);
-            else
-                ++it->second;
+    int equalPairs(vector<vector<int>>& grid) {
+        unordered_map<string,int> mp1, mp2;
+
+        for(int i=0;i<grid.size();i++) {
+            string str = "";
+            for(int j=0;j<grid.size();j++) {
+                str += to_string(grid[i][j]);
+                str.push_back('.');
+            }
+
+            mp1[str]++;
         }
-        for (const auto &row : g)
-            res += m[row];
-        return res;
+
+        for(int j=0;j<grid.size();j++) {
+            string str = "";
+            for(int i=0;i<grid.size();i++) {
+                str += to_string(grid[i][j]);
+                str.push_back('.');
+            }
+            mp2[str]++;
+        }
+
+        int count = 0;
+        for(auto it : mp1) {
+            count += it.second * mp2[it.first];
+        }
+
+        return count;
     }
 };
