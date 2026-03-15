@@ -1,9 +1,9 @@
 class Solution {
 public:
-    void DFS(vector<vector<int>> &adj, int u, vector<bool> &vis) {
-        vis[u] = true;
+    void DFS(vector<vector<int>> &adj, int u, unordered_set<int> &vis) {
+        vis.insert(u);
         for(auto it : adj[u]) {
-            if (!vis[it]) DFS(adj, it, vis);
+            if (vis.find(it) == vis.end()) DFS(adj, it, vis);
         }
     }
     bool canVisitAllRooms(vector<vector<int>>& rooms) {
@@ -12,14 +12,10 @@ public:
             for(auto it : rooms[i]) adj[i].push_back(it);
         }
 
-        vector<bool> visited(rooms.size(), false);
+        unordered_set<int> visited;
 
         DFS(adj, 0, visited);
 
-        for(int i=0;i<rooms.size();i++) {
-            if (!visited[i]) return false;
-        }
-
-        return true;
+        return visited.size() == rooms.size();
     }
 };
