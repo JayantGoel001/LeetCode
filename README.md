@@ -641,6 +641,7 @@
 | [0735-asteroid-collision](https://github.com/JayantGoel001/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JayantGoel001/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -659,6 +660,7 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/JayantGoel001/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JayantGoel001/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -1136,6 +1138,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
+| [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/JayantGoel001/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/1622-fancy-sequence) |
@@ -1148,6 +1151,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/JayantGoel001/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Combinatorics
