@@ -1,34 +1,42 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    void dfs(TreeNode* node, int level, vector<int>& sumOfNodesAtLevel) {
-        if (node == nullptr) {
-            return;
-        }
-
-        if (sumOfNodesAtLevel.size() == level) {
-            sumOfNodesAtLevel.push_back(node->val);
-        } else {
-            sumOfNodesAtLevel[level] += node->val;
-        }
-
-        dfs(node->left, level + 1, sumOfNodesAtLevel);
-        dfs(node->right, level + 1, sumOfNodesAtLevel);
-    }
-
     int maxLevelSum(TreeNode* root) {
-        vector<int> sumOfNodesAtLevel;
-        dfs(root, 0, sumOfNodesAtLevel);
+        int maxi = INT_MIN, x = 0;
+        if (!root) return x;
 
-        int maxSum = INT_MIN;
-        int ans = 0;
+        queue<TreeNode*> q;
+        q.push(root);
+        int currLevel = 0;
+        while(!q.empty()) {
+            int size = q.size();
+            int sum = 0;
+            currLevel++;
+            while(size--) {
+                TreeNode *top = q.front();
+                q.pop();
 
-        for (int i = 0; i < sumOfNodesAtLevel.size(); i++) {
-            if (maxSum < sumOfNodesAtLevel[i]) {
-                maxSum = sumOfNodesAtLevel[i];
-                ans = i + 1;
+                sum += top->val;
+
+                if (top->left) q.push(top->left);
+                if (top->right) q.push(top->right);
+            }
+
+            if (sum > maxi) {
+                maxi = sum;
+                x = currLevel;
             }
         }
-
-        return ans;
+        return x;
     }
 };
