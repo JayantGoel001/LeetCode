@@ -3,9 +3,7 @@ class StockSpanner {
 public:
     int count;
     stack<pii> st;
-    StockSpanner() {
-        count = 0;
-    }
+    StockSpanner() :count(0) {}
     
     int next(int price) {
         while(!st.empty() && st.top().first <= price) {
