@@ -593,6 +593,7 @@
 | [1768-merge-strings-alternately](https://github.com/JayantGoel001/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -643,6 +644,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JayantGoel001/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JayantGoel001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JayantGoel001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -895,6 +897,7 @@
 | [0328-odd-even-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
