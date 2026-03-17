@@ -39,7 +39,7 @@ public:
                 for(auto it : dir) {
                     if (isSafe(grid, top[0] + it[0], top[1] + it[1], n, m)) {
                         q.push({top[0] + it[0], top[1] + it[1]});
-                        grid[top[0] + it[0]][top[1] + it[1]] = 3;
+                        grid[top[0] + it[0]][top[1] + it[1]] = 2;
                     }
                 }
             }
