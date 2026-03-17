@@ -3,13 +3,13 @@ public:
     int eraseOverlapIntervals(vector<vector<int>>& intervals) {
         sort(intervals.begin(), intervals.end());
         int count = 0;
-        vector<int> last;
+        int prev = INT_MIN;
         for(auto it : intervals) {
-            if (last.empty() || last[1] <= it[0]) {
+            if (prev == INT_MIN || prev <= it[0]) {
                 count++;
-                last = it;
+                prev = it[1];
             } else {
-                last[1] = min(last[1], it[1]);
+                prev = min(prev, it[1]);
             }
         }
 
