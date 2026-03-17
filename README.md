@@ -260,6 +260,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/JayantGoel001/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JayantGoel001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/JayantGoel001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JayantGoel001/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/JayantGoel001/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JayantGoel001/LeetCode/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -441,6 +442,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/JayantGoel001/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/JayantGoel001/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JayantGoel001/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
 | [2145-grid-game](https://github.com/JayantGoel001/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -767,6 +769,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/JayantGoel001/LeetCode/tree/master/1876-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/JayantGoel001/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JayantGoel001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
