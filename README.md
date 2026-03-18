@@ -786,6 +786,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/JayantGoel001/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JayantGoel001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JayantGoel001/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -834,6 +835,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -909,6 +911,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/JayantGoel001/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JayantGoel001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JayantGoel001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JayantGoel001/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1238,6 +1241,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JayantGoel001/LeetCode/tree/master/0841-keys-and-rooms) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
