@@ -330,6 +330,7 @@
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JayantGoel001/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JayantGoel001/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -455,6 +456,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/JayantGoel001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JayantGoel001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -554,6 +556,7 @@
 | [2465-shifting-letters-ii](https://github.com/JayantGoel001/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2529-range-product-queries-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JayantGoel001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3427-special-array-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3427-special-array-ii) |
