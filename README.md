@@ -623,6 +623,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayantGoel001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayantGoel001/LeetCode/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/JayantGoel001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JayantGoel001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1247,4 +1248,8 @@
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/JayantGoel001/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/JayantGoel001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
