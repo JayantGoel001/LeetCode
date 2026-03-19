@@ -337,6 +337,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JayantGoel001/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JayantGoel001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3194-find-words-containing-character](https://github.com/JayantGoel001/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JayantGoel001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JayantGoel001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JayantGoel001/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -457,6 +458,7 @@
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JayantGoel001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JayantGoel001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -559,6 +561,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JayantGoel001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3427-special-array-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JayantGoel001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
