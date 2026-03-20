@@ -16,10 +16,10 @@ public:
     int minReorder(int n, vector<vector<int>>& connections) {
         vector<vector<pii>> adj(n);
         for(auto it : connections) {
-            adj[it[0]].push_back({it[1], 0});
-            adj[it[1]].push_back({it[0], 1});
+            adj[it[0]].push_back({it[1], 1});
+            adj[it[1]].push_back({it[0], 0});
         }
         vector<bool> visited(n, false);
-        return n - 1 - DFS(adj, 0, visited);
+        return DFS(adj, 0, visited);
     }
 };
