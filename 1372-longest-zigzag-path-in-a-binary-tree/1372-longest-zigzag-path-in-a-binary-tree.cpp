@@ -1,21 +1,17 @@
 class Solution {
 public:
     int ans = 0;
-    int longestZigZag(TreeNode* root, int prev) {
-        if (!root) return 0;
-        
-        int left = longestZigZag(root->left, -1);
-        int right = longestZigZag(root->right, 1);
+    void longestZigZag(TreeNode* root, int left, int right) {
+        if (!root) return;
 
-        ans = max(ans, 1 + max(left, right));
+        ans = max(ans, max(left, right));
 
-        if (prev == 1) return 1 + left;
-        else if (prev == -1) return 1 + right;
+        longestZigZag(root->left, 0, left + 1);
+        longestZigZag(root->right, right + 1, 0);
 
-        return 0;
     }
     int longestZigZag(TreeNode* root) { 
-        longestZigZag(root, 0);
-        return ans - 1;
+        longestZigZag(root, 0, 0);
+        return ans;
     }
 };
