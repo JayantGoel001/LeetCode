@@ -782,6 +782,7 @@
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JayantGoel001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/JayantGoel001/LeetCode/tree/master/1876-map-of-highest-peak) |
@@ -913,6 +914,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1558-course-schedule-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/JayantGoel001/LeetCode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1255,6 +1257,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JayantGoel001/LeetCode/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
