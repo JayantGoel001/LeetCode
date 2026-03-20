@@ -827,6 +827,7 @@
 | [1063-best-sightseeing-pair](https://github.com/JayantGoel001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/JayantGoel001/LeetCode/tree/master/1170-shortest-common-supersequence) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JayantGoel001/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -909,6 +910,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -1069,6 +1071,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1094,6 +1097,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/JayantGoel001/LeetCode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
