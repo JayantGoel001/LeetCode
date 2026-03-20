@@ -1,19 +1,25 @@
+#define pii pair<int,int>
 class Solution {
 public:
-    int dfs(vector<vector<int>> &al, vector<bool> &visited, int from) {
-        auto change = 0;
-        visited[from] = true;
-        for (auto to : al[from])
-            if (!visited[abs(to)])
-                change += dfs(al, visited, abs(to)) + (to > 0);
-        return change;        
+    int DFS(vector<vector<pii>> &adj, int u, vector<bool> &vis) {
+        vis[u] = true;
+        int cost = 0;
+
+        for(auto it : adj[u]) {
+            if (vis[it.first]) continue;
+
+            cost += it.second + DFS(adj, it.first, vis);
+        }
+
+        return cost;
     }
     int minReorder(int n, vector<vector<int>>& connections) {
-        vector<vector<int>> al(n);
-        for (auto &c : connections) {
-            al[c[0]].push_back(c[1]);
-            al[c[1]].push_back(-c[0]);
+        vector<vector<pii>> adj(n);
+        for(auto it : connections) {
+            adj[it[0]].push_back({it[1], 0});
+            adj[it[1]].push_back({it[0], 1});
         }
-        return dfs(al, vector<bool>(n) = {}, 0);
+        vector<bool> visited(n, false);
+        return n - 1 - DFS(adj, 0, visited);
     }
 };
