@@ -10,6 +10,7 @@
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/JayantGoel001/LeetCode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -95,6 +96,7 @@
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/JayantGoel001/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1135,6 +1137,7 @@
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1181,6 +1184,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/JayantGoel001/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
