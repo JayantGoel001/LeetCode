@@ -22,6 +22,7 @@
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JayantGoel001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1143-longest-common-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/JayantGoel001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JayantGoel001/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
@@ -837,6 +838,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/JayantGoel001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/JayantGoel001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/JayantGoel001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
