@@ -1,26 +1,25 @@
-class TrieNode{
+class TrieHelper {
     public:
-    vector<TrieNode*> v;
+    vector<TrieHelper*> v;
     bool isEnd;
-    
-    TrieNode(){
+
+    TrieHelper() {
         v.resize(26, nullptr);
         isEnd = false;
     }
 };
-
 class Trie {
+    TrieHelper *trie;
 public:
-    TrieNode *root;
     Trie() {
-        root = new TrieNode();
+        trie = new TrieHelper();
     }
     
     void insert(string word) {
-        TrieNode *temp = root;
-        for(auto it : word){
-            if(!temp->v[it - 'a']){
-                temp->v[it - 'a'] = new TrieNode();
+        TrieHelper *temp = trie;
+        for(auto it : word) {
+            if (!temp->v[it - 'a']) {
+                temp->v[it - 'a'] = new TrieHelper();
             }
             temp = temp->v[it - 'a'];
         }
@@ -28,25 +27,25 @@ public:
     }
     
     bool search(string word) {
-        TrieNode *temp = root;
-        for(auto it : word){
-            if(!temp->v[it - 'a']){
+        TrieHelper *temp = trie;
+        for(auto it : word) {
+            if (!temp->v[it - 'a']) {
                 return false;
             }
             temp = temp->v[it - 'a'];
         }
-        return temp && temp->isEnd;
+        return temp->isEnd;
     }
     
     bool startsWith(string prefix) {
-        TrieNode *temp = root;
-        for(auto it : prefix){
-            if(!temp->v[it - 'a']){
+        TrieHelper *temp = trie;
+        for(auto it : prefix) {
+            if (!temp->v[it - 'a']) {
                 return false;
             }
             temp = temp->v[it - 'a'];
         }
-        return temp;
+        return true;
     }
 };
 
