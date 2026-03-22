@@ -1,16 +1,15 @@
-#define pii int
 class Solution {
 public:
     long long totalCost(vector<int>& costs, int k, int candidates) {
         int end = 0;
         int start = costs.size()-1;
 
-        auto cmp = [&](const pii x, const pii y)->bool{
+        auto cmp = [&](const int x, const int y)->bool{
             if (costs[x] == costs[y]) return x > y;
             return costs[x] > costs[y];
         };
 
-        priority_queue<pii, vector<pii>, decltype(cmp)> pq(cmp);
+        priority_queue<int, vector<int>, decltype(cmp)> pq(cmp);
         int i = 0;
         while(i++ < candidates) {
             pq.push(end++);
@@ -22,7 +21,7 @@ public:
         
         long long ans = 0ll;
         while(k--) {
-            pii top = pq.top();
+            int top = pq.top();
             pq.pop();
 
             ans += costs[top];
