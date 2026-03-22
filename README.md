@@ -311,6 +311,7 @@
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-shifting-letters-ii](https://github.com/JayantGoel001/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/2478-longest-nice-subarray) |
@@ -634,6 +635,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -731,6 +733,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/JayantGoel001/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -769,6 +772,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2479-meeting-rooms-iii](https://github.com/JayantGoel001/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/JayantGoel001/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
