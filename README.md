@@ -9,6 +9,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/JayantGoel001/LeetCode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
@@ -818,6 +819,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JayantGoel001/LeetCode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/JayantGoel001/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
