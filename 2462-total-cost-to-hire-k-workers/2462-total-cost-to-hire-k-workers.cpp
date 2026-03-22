@@ -1,4 +1,4 @@
-#define pii pair<int,int>
+#define pii int
 class Solution {
 public:
     long long totalCost(vector<int>& costs, int k, int candidates) {
@@ -6,18 +6,18 @@ public:
         int start = costs.size()-1;
 
         auto cmp = [&](const pii x, const pii y)->bool{
-            if (costs[x.first] == costs[y.first]) return x.first > y.first;
-            return costs[x.first] > costs[y.first];
+            if (costs[x] == costs[y]) return x > y;
+            return costs[x] > costs[y];
         };
 
         priority_queue<pii, vector<pii>, decltype(cmp)> pq(cmp);
         int i = 0;
         while(i++ < candidates) {
-            pq.push({end++, 1});
+            pq.push(end++);
         }
         i = 0;
         while(i++ < candidates && end <= start) {
-            pq.push({start--, -1});
+            pq.push(start--);
         }
         
         long long ans = 0ll;
@@ -25,14 +25,14 @@ public:
             pii top = pq.top();
             pq.pop();
 
-            ans += costs[top.first];
+            ans += costs[top];
 
             if (end > start) continue;
 
-            if (top.second == 1) {
-                pq.push({end++, 1});
+            if (top < end) {
+                pq.push(end++);
             } else {
-                pq.push({start--, -1});
+                pq.push(start--);
             }
         }
 
