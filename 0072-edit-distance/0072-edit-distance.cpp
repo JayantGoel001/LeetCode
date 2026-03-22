@@ -1,25 +1,28 @@
 class Solution {
-public:
-    vector<vector<int>> dp;
-    int minDis(string &word1, string &word2, int i,int j){
-        if(i == 0){
-            return j;
+    int minDistance(string &word1, string &word2, int n, int m, vector<vector<int>> &dp) {
+        if (n == 0) return m;
+        if (m == 0) return n;
+        if (dp[n][m] == -1) {
+            if (word1[n - 1] == word2[m - 1]) {
+                dp[n][m] = minDistance(word1, word2, n - 1, m - 1, dp);
+            } else {
+                dp[n][m] = 1 + min(
+                    {
+                        minDistance(word1, word2, n - 1, m - 1, dp),
+                        minDistance(word1, word2, n, m - 1, dp),
+                        minDistance(word1, word2, n - 1, m, dp)
+                    }
+                );
+            }
         }
-        if(j == 0){
-            return i;
-        }
-        if(dp[i][j] != -1){
-            return dp[i][j];
-        }
-        if(word1[i - 1] == word2[j - 1]){
-            dp[i][j] = minDis(word1, word2, i - 1, j - 1);
-        }else{
-            dp[i][j] = 1 + min({minDis(word1, word2, i - 1, j - 1), minDis(word1, word2, i - 1, j), minDis(word1, word2, i, j - 1)});
-        }
-        return dp[i][j];
+        return dp[n][m];
     }
+public:
     int minDistance(string word1, string word2) {
-        dp.resize(word1.size() + 1, vector<int> (word2.size() + 1, -1));
-        return minDis(word1, word2, word1.size(), word2.size());
+        int n = word1.size();
+        int m = word2.size();
+
+        vector<vector<int>> dp(n + 1, vector<int> (m + 1, -1));
+        return minDistance(word1, word2, n, m, dp);
     }
 };
