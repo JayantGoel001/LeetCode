@@ -135,6 +135,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JayantGoel001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JayantGoel001/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -740,6 +741,7 @@
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JayantGoel001/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -1083,6 +1085,7 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JayantGoel001/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -1218,6 +1221,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2336-smallest-number-in-infinite-set](https://github.com/JayantGoel001/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2429-design-a-food-rating-system](https://github.com/JayantGoel001/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JayantGoel001/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/JayantGoel001/LeetCode/tree/master/3678-design-task-manager) |
