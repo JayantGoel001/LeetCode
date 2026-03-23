@@ -219,6 +219,7 @@
 | [0787-sliding-puzzle](https://github.com/JayantGoel001/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/JayantGoel001/LeetCode/tree/master/0854-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/JayantGoel001/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -650,6 +651,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JayantGoel001/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/JayantGoel001/LeetCode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/JayantGoel001/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/JayantGoel001/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
