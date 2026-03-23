@@ -7,7 +7,7 @@ public:
     }
     
     int popSmallest() {
-        if (!st.empty() && *st.begin() < minElement) {
+        if (!st.empty()) {
             int top = *st.begin();
             st.erase(top);
             return top;
@@ -16,7 +16,7 @@ public:
     }
     
     void addBack(int num) {
-        if (st.find(num) != st.end() || minElement <= num) return;
+        if (minElement <= num) return;
         
         st.insert(num);
     }
