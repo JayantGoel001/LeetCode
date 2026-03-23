@@ -302,6 +302,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -537,6 +538,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JayantGoel001/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/JayantGoel001/LeetCode/tree/master/2479-meeting-rooms-iii) |
@@ -638,6 +640,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -666,6 +669,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JayantGoel001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
