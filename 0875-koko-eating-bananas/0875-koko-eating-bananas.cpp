@@ -1,29 +1,28 @@
 class Solution {
 public:
-    bool isMinimum(vector<int> &piles, int k, int h){
-        int count = 0;
-        for(auto it : piles){
-            count += ceil(it/(double)k);
+    long long getHours(vector<int> &piles, int k) {
+        long long count = 0;
+        for(auto it : piles) {
+            count += ceil((double)it/k);
         }
-        return count <= h;
+        return count;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1;
-        int high = INT_MIN;
-        
-        for(auto it : piles){
-            high = max(high, it);
-        }
-        
-        while(low < high){
+        int high = *max_element(piles.begin(), piles.end());
+
+        int ans = 0;
+        while(low <= high) {
             int mid = low + (high - low)/2;
-            
-            if(isMinimum(piles,mid,h)){
-                high = mid;
-            }else{
+
+            if (getHours(piles, mid) <= (long long)h) {
+                ans = mid;
+                high = mid - 1;
+            } else {
                 low = mid + 1;
             }
         }
-        return low;
+
+        return ans;
     }
 };
