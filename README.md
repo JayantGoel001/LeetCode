@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
@@ -94,6 +95,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/JayantGoel001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
@@ -1141,6 +1143,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
