@@ -19,6 +19,7 @@
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/JayantGoel001/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/JayantGoel001/LeetCode/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/JayantGoel001/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -412,6 +413,7 @@
 | [0435-non-overlapping-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/JayantGoel001/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/JayantGoel001/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/JayantGoel001/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -738,6 +740,7 @@
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/JayantGoel001/LeetCode/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/JayantGoel001/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
