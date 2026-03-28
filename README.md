@@ -67,6 +67,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/JayantGoel001/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2580-circular-sentence](https://github.com/JayantGoel001/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JayantGoel001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -328,6 +329,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JayantGoel001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -431,6 +433,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/JayantGoel001/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -477,6 +480,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JayantGoel001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -892,6 +896,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1306,6 +1311,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
+| [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
