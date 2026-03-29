@@ -18,6 +18,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/JayantGoel001/LeetCode/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/JayantGoel001/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/JayantGoel001/LeetCode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
@@ -207,6 +208,7 @@
 | [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0427-construct-quad-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0427-construct-quad-tree) |
@@ -821,6 +823,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JayantGoel001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JayantGoel001/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
@@ -943,6 +946,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JayantGoel001/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -956,6 +960,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/JayantGoel001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0386-lexicographical-numbers) |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JayantGoel001/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
@@ -1317,12 +1322,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
 | [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/JayantGoel001/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
