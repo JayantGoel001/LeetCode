@@ -53,6 +53,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JayantGoel001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JayantGoel001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JayantGoel001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/JayantGoel001/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/JayantGoel001/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/JayantGoel001/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -819,6 +820,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JayantGoel001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/JayantGoel001/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/JayantGoel001/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JayantGoel001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
