@@ -1,15 +1,17 @@
 class Solution {
 private:
-    static const int HASH_MULTIPLIER =
-        60001;  // Slightly larger than 2 * max coordinate value
+    static const long long HASH_MULTIPLIER =
+        60013;  // Slightly larger than 2 * max coordinate value
 
     // Hash function to convert (x, y) coordinates to a unique integer value
-    int hashCoordinates(int x, int y) { return x + HASH_MULTIPLIER * y; }
+    long long hashCoordinates(long long x, long long y) {
+        return x + HASH_MULTIPLIER * y;
+    }
 
 public:
     int robotSim(vector<int>& commands, vector<vector<int>>& obstacles) {
         // Store obstacles in an unordered_set for efficient lookup
-        unordered_set<int> obstacleSet;
+        unordered_set<long long> obstacleSet;
         for (auto& obstacle : obstacles) {
             obstacleSet.insert(hashCoordinates(obstacle[0], obstacle[1]));
         }
