@@ -407,6 +407,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JayantGoel001/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/JayantGoel001/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JayantGoel001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JayantGoel001/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/JayantGoel001/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -844,6 +845,7 @@
 | [3447-clear-digits](https://github.com/JayantGoel001/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JayantGoel001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1112,6 +1114,7 @@
 | [0427-construct-quad-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
