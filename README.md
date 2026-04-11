@@ -173,6 +173,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JayantGoel001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/JayantGoel001/LeetCode/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JayantGoel001/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JayantGoel001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -416,6 +417,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JayantGoel001/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JayantGoel001/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JayantGoel001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JayantGoel001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
