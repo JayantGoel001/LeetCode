@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-total-distance-traveled/">2463. Minimum Total Distance Traveled</a></h2><h3>Hard</h3><hr><div><p>There are some robots and factories on the X-axis. You are given an integer array <code>robot</code> where <code>robot[i]</code> is the position of the <code>i<sup>th</sup></code> robot. You are also given a 2D integer array <code>factory</code> where <code>factory[j] = [position<sub>j</sub>, limit<sub>j</sub>]</code> indicates that <code>position<sub>j</sub></code> is the position of the <code>j<sup>th</sup></code> factory and that the <code>j<sup>th</sup></code> factory can repair at most <code>limit<sub>j</sub></code> robots.</p>
+<h2><a href="https://leetcode.com/problems/minimum-total-distance-traveled">2554. Minimum Total Distance Traveled</a></h2><h3>Hard</h3><hr><p>There are some robots and factories on the X-axis. You are given an integer array <code>robot</code> where <code>robot[i]</code> is the position of the <code>i<sup>th</sup></code> robot. You are also given a 2D integer array <code>factory</code> where <code>factory[j] = [position<sub>j</sub>, limit<sub>j</sub>]</code> indicates that <code>position<sub>j</sub></code> is the position of the <code>j<sup>th</sup></code> factory and that the <code>j<sup>th</sup></code> factory can repair at most <code>limit<sub>j</sub></code> robots.</p>
 
 <p>The positions of each robot are <strong>unique</strong>. The positions of each factory are also <strong>unique</strong>. Note that a robot can be <strong>in the same position</strong> as a factory initially.</p>
 
@@ -20,8 +20,9 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/09/15/example1.jpg" style="width: 500px; height: 320px;">
-<pre><strong>Input:</strong> robot = [0,4,6], factory = [[2,2],[6,2]]
+<img alt="" src="https://assets.leetcode.com/uploads/2022/09/15/example1.jpg" style="width: 500px; height: 320px;" />
+<pre>
+<strong>Input:</strong> robot = [0,4,6], factory = [[2,2],[6,2]]
 <strong>Output:</strong> 4
 <strong>Explanation:</strong> As shown in the figure:
 - The first robot at position 0 moves in the positive direction. It will be repaired at the first factory.
@@ -33,8 +34,9 @@ The total distance is |2 - 0| + |2 - 4| + |6 - 6| = 4. It can be shown that we c
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2022/09/15/example-2.jpg" style="width: 500px; height: 329px;">
-<pre><strong>Input:</strong> robot = [1,-1], factory = [[-2,1],[2,1]]
+<img alt="" src="https://assets.leetcode.com/uploads/2022/09/15/example-2.jpg" style="width: 500px; height: 329px;" />
+<pre>
+<strong>Input:</strong> robot = [1,-1], factory = [[-2,1],[2,1]]
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> As shown in the figure:
 - The first robot at position 1 moves in the positive direction. It will be repaired at the second factory.
@@ -54,4 +56,3 @@ The total distance is |2 - 1| + |(-2) - (-1)| = 2. It can be shown that we canno
 	<li><code>0 &lt;= limit<sub>j</sub> &lt;= robot.length</code></li>
 	<li>The input will be generated such that it is always possible to repair every robot.</li>
 </ul>
-</div>
