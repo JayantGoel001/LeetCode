@@ -168,6 +168,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JayantGoel001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JayantGoel001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3548-find-the-count-of-good-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -399,6 +400,7 @@
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JayantGoel001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3488-closest-equal-element-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -732,6 +734,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3427-special-array-ii) |
+| [3488-closest-equal-element-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/JayantGoel001/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
