@@ -79,6 +79,7 @@
 | [2580-circular-sentence](https://github.com/JayantGoel001/LeetCode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JayantGoel001/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2833-furthest-point-from-origin](https://github.com/JayantGoel001/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1164,6 +1165,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/JayantGoel001/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
