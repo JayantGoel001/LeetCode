@@ -407,6 +407,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JayantGoel001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JayantGoel001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -616,6 +617,7 @@
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/JayantGoel001/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JayantGoel001/LeetCode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3647-zero-array-transformation-iii](https://github.com/JayantGoel001/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JayantGoel001/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -746,6 +748,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3427-special-array-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3427-special-array-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -1111,6 +1114,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3548-find-the-count-of-good-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JayantGoel001/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1374,6 +1378,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Game Theory
 |  |
 | ------- |
