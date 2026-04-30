@@ -437,6 +437,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JayantGoel001/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/JayantGoel001/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JayantGoel001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -548,6 +549,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JayantGoel001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JayantGoel001/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Bit Manipulation
 |  |
@@ -990,6 +992,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/JayantGoel001/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph
 |  |
 | ------- |
