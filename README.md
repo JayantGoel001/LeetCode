@@ -221,6 +221,7 @@
 | [0289-game-of-life](https://github.com/JayantGoel001/LeetCode/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/JayantGoel001/LeetCode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -940,6 +941,7 @@
 | [0338-counting-bits](https://github.com/JayantGoel001/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/JayantGoel001/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
@@ -1095,6 +1097,7 @@
 | [0326-power-of-three](https://github.com/JayantGoel001/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JayantGoel001/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/JayantGoel001/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/JayantGoel001/LeetCode/tree/master/0396-rotate-function) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
