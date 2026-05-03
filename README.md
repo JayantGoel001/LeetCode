@@ -23,6 +23,7 @@
 | [0649-dota2-senate](https://github.com/JayantGoel001/LeetCode/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/JayantGoel001/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JayantGoel001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -188,6 +189,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
