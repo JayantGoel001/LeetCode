@@ -704,6 +704,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JayantGoel001/LeetCode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/JayantGoel001/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/JayantGoel001/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/JayantGoel001/LeetCode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
@@ -1084,6 +1085,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/JayantGoel001/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/JayantGoel001/LeetCode/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/JayantGoel001/LeetCode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/JayantGoel001/LeetCode/tree/master/0148-sort-list) |
