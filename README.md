@@ -382,6 +382,7 @@
 | [2751-robot-collisions](https://github.com/JayantGoel001/LeetCode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JayantGoel001/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
@@ -995,6 +996,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JayantGoel001/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
