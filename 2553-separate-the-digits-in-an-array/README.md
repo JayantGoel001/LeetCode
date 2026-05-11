@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/separate-the-digits-in-an-array/">2553. Separate the Digits in an Array</a></h2><h3>Easy</h3><hr><div><p>Given an array of positive integers <code>nums</code>, return <em>an array </em><code>answer</code><em> that consists of the digits of each integer in </em><code>nums</code><em> after separating them in <strong>the same order</strong> they appear in </em><code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/separate-the-digits-in-an-array">2639. Separate the Digits in an Array</a></h2><h3>Easy</h3><hr><p>Given an array of positive integers <code>nums</code>, return <em>an array </em><code>answer</code><em> that consists of the digits of each integer in </em><code>nums</code><em> after separating them in <strong>the same order</strong> they appear in </em><code>nums</code>.</p>
 
 <p>To separate the digits of an integer is to get all the digits it has in the same order.</p>
 
@@ -9,7 +9,8 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> nums = [13,25,83,77]
+<pre>
+<strong>Input:</strong> nums = [13,25,83,77]
 <strong>Output:</strong> [1,3,2,5,8,3,7,7]
 <strong>Explanation:</strong> 
 - The separation of 13 is [1,3].
@@ -21,7 +22,8 @@ answer = [1,3,2,5,8,3,7,7]. Note that answer contains the separations in the sam
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> nums = [7,1,3,9]
+<pre>
+<strong>Input:</strong> nums = [7,1,3,9]
 <strong>Output:</strong> [7,1,3,9]
 <strong>Explanation:</strong> The separation of each integer in nums is itself.
 answer = [7,1,3,9].
@@ -34,4 +36,3 @@ answer = [7,1,3,9].
 	<li><code>1 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 </ul>
-</div>
