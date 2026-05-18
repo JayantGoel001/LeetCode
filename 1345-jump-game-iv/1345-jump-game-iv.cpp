@@ -1,29 +1,47 @@
 class Solution {
 public:
     int minJumps(vector<int>& arr) {
-        int n = arr.size();
-        unordered_map<int, vector<int>> indicesOfValue;
-        for (int i = 0; i < n; i++)
-            indicesOfValue[arr[i]].push_back(i);
-        vector<bool> visited(n); visited[0] = true;
-        queue<int> q; q.push(0);
-        int step = 0;
-        while (!q.empty()) {
-            for (int size = q.size(); size > 0; --size) {
-                int i = q.front(); q.pop();
-                if (i == n - 1) return step; // Reached to last index
-                vector<int>& next = indicesOfValue[arr[i]];
-                next.push_back(i - 1); next.push_back(i + 1);
-                for (int j : next) {
-                    if (j >= 0 && j < n && !visited[j]) {
-                        visited[j] = true;
-                        q.push(j);
+        unordered_map<int,vector<int>> mp;
+        for(int i=0;i<arr.size();i++){
+            mp[arr[i]].push_back(i);
+        }
+        int start = 0;
+        int count = 0;
+        
+        queue<int> q;
+        q.push(start);
+        
+        vector<int> vis(arr.size(), false);
+        vis[start] = true;
+        
+        while(!q.empty()){
+            int size = q.size();
+            
+            for(int i=0;i<size;i++){
+                int top = q.front();
+                q.pop();
+                
+                if(top == arr.size() - 1){
+                    return count;
+                }
+                for(auto it : mp[arr[top]]){
+                    if(!vis[it]){
+                        vis[it] = true;
+                        q.push(it);
                     }
                 }
-                next.clear(); // avoid later lookup indicesOfValue arr[i]
+                if(top - 1 >= 0 && !vis[top - 1]){
+                    vis[top - 1] = true;
+                    q.push(top - 1);
+                }
+                if(top + 1 < arr.size() && !vis[top + 1]){
+                    vis[top + 1] = true;
+                    q.push(top + 1);
+                }
+                mp[arr[top]].clear();
             }
-            step++;
+            count++;
         }
-        return 0;
+        return -1;
     }
 };
