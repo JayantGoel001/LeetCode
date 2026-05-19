@@ -159,6 +159,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/JayantGoel001/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/JayantGoel001/LeetCode/tree/master/2540-minimum-common-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JayantGoel001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/JayantGoel001/LeetCode/tree/master/2615-sum-of-distances) |
@@ -370,6 +371,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JayantGoel001/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JayantGoel001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2540-minimum-common-value](https://github.com/JayantGoel001/LeetCode/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/JayantGoel001/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JayantGoel001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -751,6 +753,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2540-minimum-common-value](https://github.com/JayantGoel001/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -780,6 +783,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2540-minimum-common-value](https://github.com/JayantGoel001/LeetCode/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JayantGoel001/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
