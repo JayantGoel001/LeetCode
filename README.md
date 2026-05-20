@@ -164,6 +164,7 @@
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2615-sum-of-distances](https://github.com/JayantGoel001/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JayantGoel001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -382,6 +383,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/JayantGoel001/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2615-sum-of-distances](https://github.com/JayantGoel001/LeetCode/tree/master/2615-sum-of-distances) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2665-minimum-time-to-repair-cars](https://github.com/JayantGoel001/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JayantGoel001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/JayantGoel001/LeetCode/tree/master/2690-house-robber-iv) |
@@ -597,6 +599,7 @@
 | [2509-minimize-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2509-minimize-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/JayantGoel001/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JayantGoel001/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/JayantGoel001/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
