@@ -433,6 +433,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JayantGoel001/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JayantGoel001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
@@ -1201,6 +1202,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/JayantGoel001/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JayantGoel001/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
