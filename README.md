@@ -341,6 +341,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JayantGoel001/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/JayantGoel001/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2126-destroying-asteroids](https://github.com/JayantGoel001/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/JayantGoel001/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -509,6 +510,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/JayantGoel001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/JayantGoel001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JayantGoel001/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/JayantGoel001/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JayantGoel001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JayantGoel001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -647,6 +649,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2126-destroying-asteroids](https://github.com/JayantGoel001/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
