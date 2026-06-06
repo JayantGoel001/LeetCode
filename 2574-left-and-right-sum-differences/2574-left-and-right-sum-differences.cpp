@@ -1,17 +1,21 @@
 class Solution {
 public:
-    vector<int> leftRigthDifference(vector<int>& nums) {
-        int rsum = 0;
-        for(auto it : nums){
-            rsum += it;
+    vector<int> leftRightDifference(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans(n);
+
+        int leftSum = 0;
+        for (int i = 0; i < n; ++i) {
+            ans[i] = leftSum;
+            leftSum += nums[i];
         }
-        int lsum = 0;
-        vector<int> v;
-        for(auto it : nums){
-            rsum -= it;
-            v.push_back(abs(rsum - lsum));
-            lsum += it;
+
+        int rightSum = 0;
+        for (int i = n - 1; i >= 0; --i) {
+            ans[i] = abs(ans[i] - rightSum);
+            rightSum += nums[i];
         }
-        return v;
+
+        return ans;
     }
 };
