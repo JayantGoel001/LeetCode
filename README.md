@@ -348,6 +348,7 @@
 | [2145-grid-game](https://github.com/JayantGoel001/LeetCode/tree/master/2145-grid-game) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/JayantGoel001/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/JayantGoel001/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/JayantGoel001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -785,6 +786,7 @@
 | [1972-rotating-the-box](https://github.com/JayantGoel001/LeetCode/tree/master/1972-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JayantGoel001/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/JayantGoel001/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/JayantGoel001/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -945,6 +947,7 @@
 | [2048-build-array-from-permutation](https://github.com/JayantGoel001/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2069-walking-robot-simulation-ii](https://github.com/JayantGoel001/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/JayantGoel001/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/JayantGoel001/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JayantGoel001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
