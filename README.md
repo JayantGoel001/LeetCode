@@ -455,6 +455,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/JayantGoel001/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JayantGoel001/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -623,6 +624,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JayantGoel001/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayantGoel001/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JayantGoel001/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -956,6 +958,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JayantGoel001/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JayantGoel001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1049,6 +1052,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/JayantGoel001/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JayantGoel001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JayantGoel001/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JayantGoel001/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -1165,6 +1169,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JayantGoel001/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JayantGoel001/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Depth-First Search
@@ -1600,6 +1605,7 @@
 | [0841-keys-and-rooms](https://github.com/JayantGoel001/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/JayantGoel001/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
