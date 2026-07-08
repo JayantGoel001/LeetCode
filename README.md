@@ -113,6 +113,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/JayantGoel001/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JayantGoel001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -777,6 +778,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JayantGoel001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JayantGoel001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
@@ -1314,6 +1316,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JayantGoel001/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/JayantGoel001/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/JayantGoel001/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
