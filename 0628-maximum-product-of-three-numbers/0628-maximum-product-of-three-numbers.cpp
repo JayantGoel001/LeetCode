@@ -1,32 +1,20 @@
 class Solution {
 public:
-    int maximumProduct(vector<int>& nums) {
-        int min1 = INT_MAX;
-        int min2 = INT_MAX;
-        
-        int max1 = INT_MIN;
-        int max2 = INT_MIN;
-        int max3 = INT_MIN;
-        
-        for(int it : nums){
-            if(it <= min1){
-                min2 = min1;
-                min1 = it;
-            }else if(it <= min2){
-                min2 = it;
-            }
-            
-            if(it >= max1){
-                max3 = max2;
-                max2 = max1;
-                max1 = it;
-            }else if(it >= max2){
-                max3 = max2;
-                max2 = it;
-            }else if(it >= max3){
-                max3 = it;
-            }
+    int maximumProduct(vector<int>& A) {
+        int a = -1001, b = a, c = b;    // max 3
+        int x =  1001, y = x;           // min 2
+
+        for (auto& n : A) {
+            int pa = a, pb = b, px = x; // cache old values
+
+            a = max(a, n);              // Update 1st max
+            b = max(b, min(pa, n));     // Shift to 2nd max
+            c = max(c, min(pb, n));     // Shift to 3rd max
+
+            x = min(x, n);              // Update 1st min
+            y = min(y, max(px, n));     // Shift to 2nd min
         }
-        return max(min1 * min2 * max1, max1 * max2 * max3);
+
+        return max(a * b * c, a * x * y);
     }
 };
