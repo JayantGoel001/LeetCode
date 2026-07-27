@@ -1,17 +1,17 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxI1 = 0;
-        int maxI2 = 0;
-        for(auto it : nums){
-            if(maxI1 <= it){
-                maxI2 = maxI1;
-                maxI1 = it;
-            }
-            if(maxI2 <= it && maxI1 != it){
-                maxI2 = it;
+        int biggest = 0;
+        int secondBiggest = 0;
+        for (int num : nums) {
+            if (num > biggest) {
+                secondBiggest = biggest;
+                biggest = num;
+            } else {
+                secondBiggest = max(secondBiggest, num);
             }
         }
-        return (maxI1 - 1) * (maxI2 - 1);
+        
+        return (biggest - 1) * (secondBiggest - 1);
     }
 };
