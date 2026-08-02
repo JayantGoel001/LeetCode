@@ -290,6 +290,7 @@
 | [0854-making-a-large-island](https://github.com/JayantGoel001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/JayantGoel001/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/JayantGoel001/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JayantGoel001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1149,6 +1150,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/JayantGoel001/LeetCode/tree/master/0790-domino-and-tromino-tiling) |
 | [0806-domino-and-tromino-tiling](https://github.com/JayantGoel001/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/JayantGoel001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
@@ -1323,6 +1325,7 @@
 | [0788-rotated-digits](https://github.com/JayantGoel001/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -1685,6 +1688,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/JayantGoel001/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
