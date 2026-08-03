@@ -319,6 +319,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/JayantGoel001/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1163,6 +1164,7 @@
 | [1340-jump-game-v](https://github.com/JayantGoel001/LeetCode/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/JayantGoel001/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/JayantGoel001/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1330,6 +1332,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JayantGoel001/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JayantGoel001/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JayantGoel001/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1689,6 +1692,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/JayantGoel001/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
 |  |
@@ -1745,4 +1749,12 @@
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JayantGoel001/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/JayantGoel001/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
