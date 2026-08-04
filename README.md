@@ -216,6 +216,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/JayantGoel001/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3678-design-task-manager](https://github.com/JayantGoel001/LeetCode/tree/master/3678-design-task-manager) |
+| [3731-find-missing-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JayantGoel001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JayantGoel001/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -533,6 +534,7 @@
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JayantGoel001/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3689-maximum-total-subarray-value-i](https://github.com/JayantGoel001/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3731-find-missing-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JayantGoel001/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/JayantGoel001/LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -779,6 +781,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/JayantGoel001/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/JayantGoel001/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/JayantGoel001/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3731-find-missing-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
