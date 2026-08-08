@@ -99,6 +99,7 @@
 | [3194-find-words-containing-character](https://github.com/JayantGoel001/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/JayantGoel001/LeetCode/tree/master/3396-valid-word) |
@@ -599,6 +600,7 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/JayantGoel001/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JayantGoel001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/JayantGoel001/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JayantGoel001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/JayantGoel001/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -889,6 +891,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JayantGoel001/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1196,6 +1199,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JayantGoel001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JayantGoel001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayantGoel001/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
