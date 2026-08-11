@@ -195,6 +195,7 @@
 | [2784-check-if-array-is-good](https://github.com/JayantGoel001/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JayantGoel001/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JayantGoel001/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -463,6 +464,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/JayantGoel001/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JayantGoel001/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JayantGoel001/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -764,6 +766,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JayantGoel001/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/JayantGoel001/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/JayantGoel001/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
