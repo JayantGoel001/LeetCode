@@ -195,6 +195,7 @@
 | [2784-check-if-array-is-good](https://github.com/JayantGoel001/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/JayantGoel001/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantGoel001/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JayantGoel001/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -464,6 +465,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2906-construct-product-matrix](https://github.com/JayantGoel001/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JayantGoel001/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantGoel001/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JayantGoel001/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -858,6 +860,7 @@
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JayantGoel001/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JayantGoel001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
