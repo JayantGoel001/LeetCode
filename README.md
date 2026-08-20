@@ -478,6 +478,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JayantGoel001/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JayantGoel001/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/JayantGoel001/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/JayantGoel001/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1098,6 +1099,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2751-robot-collisions](https://github.com/JayantGoel001/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JayantGoel001/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JayantGoel001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/JayantGoel001/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
