@@ -59,6 +59,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JayantGoel001/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JayantGoel001/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JayantGoel001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1927-sum-game](https://github.com/JayantGoel001/LeetCode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JayantGoel001/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JayantGoel001/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/JayantGoel001/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -597,6 +598,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/JayantGoel001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JayantGoel001/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1917-maximum-average-pass-ratio](https://github.com/JayantGoel001/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/JayantGoel001/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/JayantGoel001/LeetCode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/JayantGoel001/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/JayantGoel001/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -1390,6 +1392,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/JayantGoel001/LeetCode/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/JayantGoel001/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JayantGoel001/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2029-stone-game-ix](https://github.com/JayantGoel001/LeetCode/tree/master/2029-stone-game-ix) |
@@ -1748,6 +1751,7 @@
 | [1406-stone-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/JayantGoel001/LeetCode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/JayantGoel001/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/JayantGoel001/LeetCode/tree/master/2029-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Doubly-Linked List
