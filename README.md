@@ -125,6 +125,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JayantGoel001/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JayantGoel001/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JayantGoel001/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -934,6 +935,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JayantGoel001/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/JayantGoel001/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JayantGoel001/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -1724,6 +1726,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/JayantGoel001/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JayantGoel001/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JayantGoel001/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
