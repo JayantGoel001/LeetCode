@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/">2058. Find the Minimum and Maximum Number of Nodes Between Critical Points</a></h2><h3>Medium</h3><hr><div><p>A <strong>critical point</strong> in a linked list is defined as <strong>either</strong> a <strong>local maxima</strong> or a <strong>local minima</strong>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points">2182. Find the Minimum and Maximum Number of Nodes Between Critical Points</a></h2><h3>Medium</h3><hr><p>A <strong>critical point</strong> in a linked list is defined as <strong>either</strong> a <strong>local maxima</strong> or a <strong>local minima</strong>.</p>
 
 <p>A node is a <strong>local maxima</strong> if the current node has a value <strong>strictly greater</strong> than the previous node and the next node.</p>
 
@@ -10,15 +10,17 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a1.png" style="width: 148px; height: 55px;">
-<pre><strong>Input:</strong> head = [3,1]
+<img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a1.png" style="width: 148px; height: 55px;" />
+<pre>
+<strong>Input:</strong> head = [3,1]
 <strong>Output:</strong> [-1,-1]
 <strong>Explanation:</strong> There are no critical points in [3,1].
 </pre>
 
 <p><strong class="example">Example 2:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a2.png" style="width: 624px; height: 46px;">
-<pre><strong>Input:</strong> head = [5,3,1,2,5,1,2]
+<img alt="" src="https://assets.leetcode.com/uploads/2021/10/13/a2.png" style="width: 624px; height: 46px;" />
+<pre>
+<strong>Input:</strong> head = [5,3,1,2,5,1,2]
 <strong>Output:</strong> [1,3]
 <strong>Explanation:</strong> There are three critical points:
 - [5,3,<strong><u>1</u></strong>,2,5,1,2]: The third node is a local minima because 1 is less than 3 and 2.
@@ -29,8 +31,9 @@ The maximum distance is between the third and the sixth node. maxDistance = 6 - 
 </pre>
 
 <p><strong class="example">Example 3:</strong></p>
-<img alt="" src="https://assets.leetcode.com/uploads/2021/10/14/a5.png" style="width: 624px; height: 39px;">
-<pre><strong>Input:</strong> head = [1,3,2,2,3,2,2,2,7]
+<img alt="" src="https://assets.leetcode.com/uploads/2021/10/14/a5.png" style="width: 624px; height: 39px;" />
+<pre>
+<strong>Input:</strong> head = [1,3,2,2,3,2,2,2,7]
 <strong>Output:</strong> [3,3]
 <strong>Explanation:</strong> There are two critical points:
 - [1,<u><strong>3</strong></u>,2,2,3,2,2,2,7]: The second node is a local maxima because 3 is greater than 1 and 2.
@@ -47,4 +50,3 @@ Note that the last node is not considered a local maxima because it does not hav
 	<li>The number of nodes in the list is in the range <code>[2, 10<sup>5</sup>]</code>.</li>
 	<li><code>1 &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
-</div>
