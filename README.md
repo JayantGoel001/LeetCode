@@ -26,6 +26,7 @@
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JayantGoel001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1220,6 +1221,7 @@
 | [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/JayantGoel001/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/JayantGoel001/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1137-n-th-tribonacci-number](https://github.com/JayantGoel001/LeetCode/tree/master/1137-n-th-tribonacci-number) |
