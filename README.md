@@ -1410,6 +1410,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/JayantGoel001/LeetCode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/JayantGoel001/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/JayantGoel001/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0867-new-21-game](https://github.com/JayantGoel001/LeetCode/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/JayantGoel001/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -1792,6 +1793,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/JayantGoel001/LeetCode/tree/master/0836-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
