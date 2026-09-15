@@ -83,6 +83,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/JayantGoel001/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/JayantGoel001/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/JayantGoel001/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -632,6 +633,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/JayantGoel001/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/JayantGoel001/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2509-minimize-xor](https://github.com/JayantGoel001/LeetCode/tree/master/2509-minimize-xor) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/JayantGoel001/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2542-maximum-subsequence-score](https://github.com/JayantGoel001/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -948,6 +950,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/JayantGoel001/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/JayantGoel001/LeetCode/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/JayantGoel001/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1262,6 +1265,7 @@
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/JayantGoel001/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JayantGoel001/LeetCode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
