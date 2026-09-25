@@ -32,6 +32,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/JayantGoel001/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/JayantGoel001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -153,6 +154,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1189-maximum-number-of-balloons](https://github.com/JayantGoel001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/JayantGoel001/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -788,6 +790,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -1044,6 +1047,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JayantGoel001/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1184,6 +1188,7 @@
 | [0841-keys-and-rooms](https://github.com/JayantGoel001/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0854-making-a-large-island](https://github.com/JayantGoel001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JayantGoel001/LeetCode/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1306-jump-game-iii) |
@@ -1679,6 +1684,7 @@
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JayantGoel001/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JayantGoel001/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/JayantGoel001/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
