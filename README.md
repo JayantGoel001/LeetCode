@@ -58,6 +58,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JayantGoel001/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/JayantGoel001/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/JayantGoel001/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1871-jump-game-vii](https://github.com/JayantGoel001/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/JayantGoel001/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -177,6 +178,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JayantGoel001/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/JayantGoel001/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/JayantGoel001/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JayantGoel001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/JayantGoel001/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -381,6 +383,7 @@
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/JayantGoel001/LeetCode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JayantGoel001/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-defuse-the-bomb](https://github.com/JayantGoel001/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1813-maximum-erasure-value](https://github.com/JayantGoel001/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1833-maximum-ice-cream-bars](https://github.com/JayantGoel001/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/JayantGoel001/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
