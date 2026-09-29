@@ -441,6 +441,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/JayantGoel001/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/JayantGoel001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -716,6 +717,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2145-grid-game](https://github.com/JayantGoel001/LeetCode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JayantGoel001/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1292,6 +1294,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/JayantGoel001/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/JayantGoel001/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JayantGoel001/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JayantGoel001/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -1938,4 +1941,5 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
