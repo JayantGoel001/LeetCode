@@ -7,6 +7,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
@@ -1046,6 +1047,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/JayantGoel001/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/JayantGoel001/LeetCode/tree/master/0394-decode-string) |
@@ -1942,6 +1944,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
