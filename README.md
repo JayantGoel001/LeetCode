@@ -8,6 +8,7 @@
 | [0006-zigzag-conversion](https://github.com/JayantGoel001/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/JayantGoel001/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/JayantGoel001/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/JayantGoel001/LeetCode/tree/master/0071-simplify-path) |
@@ -1238,6 +1239,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/JayantGoel001/LeetCode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/JayantGoel001/LeetCode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/JayantGoel001/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -1691,6 +1693,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JayantGoel001/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/JayantGoel001/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
@@ -1945,6 +1948,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
