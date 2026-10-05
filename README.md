@@ -30,6 +30,7 @@
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
 | [0796-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/JayantGoel001/LeetCode/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1006-vowel-spellchecker](https://github.com/JayantGoel001/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/JayantGoel001/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1060,6 +1061,7 @@
 | [0735-asteroid-collision](https://github.com/JayantGoel001/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/JayantGoel001/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/JayantGoel001/LeetCode/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JayantGoel001/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -1958,6 +1960,7 @@
 | [0022-generate-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/JayantGoel001/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/JayantGoel001/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
