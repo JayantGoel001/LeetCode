@@ -19,6 +19,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/JayantGoel001/LeetCode/tree/master/0224-basic-calculator) |
+| [0301-remove-invalid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/JayantGoel001/LeetCode/tree/master/0394-decode-string) |
@@ -1200,6 +1201,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/JayantGoel001/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JayantGoel001/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1710,6 +1712,7 @@
 | [0052-n-queens-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/JayantGoel001/LeetCode/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/JayantGoel001/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/JayantGoel001/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/JayantGoel001/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
