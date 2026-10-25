@@ -352,6 +352,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-unique-number-of-occurrences](https://github.com/JayantGoel001/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -731,6 +732,7 @@
 | [0854-making-a-large-island](https://github.com/JayantGoel001/LeetCode/tree/master/0854-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/JayantGoel001/LeetCode/tree/master/0994-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/JayantGoel001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1252,6 +1254,7 @@
 | [1096-brace-expansion-ii](https://github.com/JayantGoel001/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1443,6 +1446,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JayantGoel001/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1939,6 +1943,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JayantGoel001/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
