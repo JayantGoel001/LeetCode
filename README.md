@@ -370,6 +370,7 @@
 | [1345-jump-game-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/JayantGoel001/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/JayantGoel001/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -857,6 +858,7 @@
 | [1288-remove-covered-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/JayantGoel001/LeetCode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JayantGoel001/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1020,6 +1022,7 @@
 | [0392-is-subsequence](https://github.com/JayantGoel001/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/JayantGoel001/LeetCode/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/JayantGoel001/LeetCode/tree/master/0768-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JayantGoel001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -1061,6 +1064,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/JayantGoel001/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JayantGoel001/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JayantGoel001/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/JayantGoel001/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
