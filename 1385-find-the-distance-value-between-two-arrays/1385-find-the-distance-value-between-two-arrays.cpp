@@ -4,7 +4,9 @@ public:
         sort(begin(B), end(B));
         int ans = 0;
         for (int n : A) {
-            if (upper_bound(begin(B), end(B), n + d) == lower_bound(begin(B), end(B), n - d)) ++ans;
+            if (upper_bound(begin(B), end(B), n + d) ==
+                lower_bound(begin(B), end(B), n - d))
+                ++ans;
         }
         return ans;
     }
