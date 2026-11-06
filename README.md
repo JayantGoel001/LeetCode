@@ -225,6 +225,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/JayantGoel001/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2747-count-zero-request-servers](https://github.com/JayantGoel001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/JayantGoel001/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -515,6 +516,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/JayantGoel001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/JayantGoel001/LeetCode/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JayantGoel001/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -891,6 +893,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/JayantGoel001/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JayantGoel001/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/JayantGoel001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/JayantGoel001/LeetCode/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/JayantGoel001/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2887-sort-vowels-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -997,6 +1000,7 @@
 | [2478-longest-nice-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JayantGoel001/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JayantGoel001/LeetCode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2747-count-zero-request-servers](https://github.com/JayantGoel001/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/JayantGoel001/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/JayantGoel001/LeetCode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JayantGoel001/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
