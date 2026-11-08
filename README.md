@@ -360,6 +360,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/JayantGoel001/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1288-remove-covered-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/JayantGoel001/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -749,6 +750,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JayantGoel001/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/JayantGoel001/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
@@ -1285,6 +1287,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/JayantGoel001/LeetCode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1482,6 +1485,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/JayantGoel001/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/JayantGoel001/LeetCode/tree/master/1306-jump-game-iii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JayantGoel001/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/JayantGoel001/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -1684,6 +1688,7 @@
 | [0900-reordered-power-of-2](https://github.com/JayantGoel001/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1189-maximum-number-of-balloons](https://github.com/JayantGoel001/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1364-tuple-with-same-product](https://github.com/JayantGoel001/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/JayantGoel001/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1989,6 +1994,7 @@
 | [0399-evaluate-division](https://github.com/JayantGoel001/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/JayantGoel001/LeetCode/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/JayantGoel001/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/JayantGoel001/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/JayantGoel001/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JayantGoel001/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
