@@ -86,6 +86,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/JayantGoel001/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/JayantGoel001/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JayantGoel001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/JayantGoel001/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JayantGoel001/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1260,6 +1261,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/JayantGoel001/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JayantGoel001/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2232-adding-spaces-to-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/JayantGoel001/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JayantGoel001/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
