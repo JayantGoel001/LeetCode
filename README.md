@@ -126,6 +126,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/JayantGoel001/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/JayantGoel001/LeetCode/tree/master/3396-valid-word) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JayantGoel001/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -246,6 +247,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/JayantGoel001/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3412-permutation-difference-between-two-strings](https://github.com/JayantGoel001/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JayantGoel001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -575,6 +577,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JayantGoel001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/JayantGoel001/LeetCode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-positive-sum-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -1541,6 +1544,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/JayantGoel001/LeetCode/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JayantGoel001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3310-remove-methods-from-project](https://github.com/JayantGoel001/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JayantGoel001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JayantGoel001/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1787,6 +1791,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/JayantGoel001/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JayantGoel001/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/JayantGoel001/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/JayantGoel001/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JayantGoel001/LeetCode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/JayantGoel001/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
