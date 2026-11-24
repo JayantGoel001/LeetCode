@@ -585,6 +585,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/JayantGoel001/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JayantGoel001/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -1036,6 +1037,7 @@
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JayantGoel001/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/JayantGoel001/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JayantGoel001/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/JayantGoel001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1650,6 +1652,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JayantGoel001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/JayantGoel001/LeetCode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -1973,6 +1976,7 @@
 | [3201-distribute-candies-among-children-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JayantGoel001/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/JayantGoel001/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/JayantGoel001/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -1994,6 +1998,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JayantGoel001/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JayantGoel001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/JayantGoel001/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JayantGoel001/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JayantGoel001/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
