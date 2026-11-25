@@ -281,6 +281,7 @@
 | [3797-design-spreadsheet](https://github.com/JayantGoel001/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/JayantGoel001/LeetCode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/JayantGoel001/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -666,6 +667,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/JayantGoel001/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/JayantGoel001/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/JayantGoel001/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
 |  |
@@ -1145,6 +1147,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/JayantGoel001/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/JayantGoel001/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3827-implement-router](https://github.com/JayantGoel001/LeetCode/tree/master/3827-implement-router) |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -1888,11 +1891,13 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/JayantGoel001/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/JayantGoel001/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Brainteaser
 |  |
 | ------- |
@@ -2141,4 +2146,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/JayantGoel001/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/JayantGoel001/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
