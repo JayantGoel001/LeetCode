@@ -1295,6 +1295,7 @@
 | [2751-robot-collisions](https://github.com/JayantGoel001/LeetCode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JayantGoel001/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JayantGoel001/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/JayantGoel001/LeetCode/tree/master/3360-stone-removal-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JayantGoel001/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/JayantGoel001/LeetCode/tree/master/3447-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -1655,6 +1656,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/JayantGoel001/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/JayantGoel001/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JayantGoel001/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/JayantGoel001/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/JayantGoel001/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3462-vowels-game-in-a-string](https://github.com/JayantGoel001/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/JayantGoel001/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
